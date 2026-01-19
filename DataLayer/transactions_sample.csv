@@ -1,0 +1,1001 @@
+transaction_id,user_id,transaction_date,amount,currency,merchant,category,payment_method,status
+TXN100000,U1060,2024-12-17,18493.98,INR,Zomato,Travel,Net Banking,Failed
+TXN100001,U1091,2024-09-09,16773.46,INR,Amazon,Shopping,Wallet,Failed
+TXN100002,U1085,2024-11-06,13542.58,INR,Uber,Shopping,Net Banking,Pending
+TXN100003,U1027,2024-05-29,11018.06,INR,Swiggy,Food,Credit Card,Success
+TXN100004,U1100,2024-06-20,12549.11,INR,Swiggy,Entertainment,UPI,Failed
+TXN100005,U1074,2024-09-29,39874.02,INR,Uber,Entertainment,UPI,Pending
+TXN100006,U1086,2024-11-17,47976.5,INR,Netflix,Travel,UPI,Success
+TXN100007,U1092,2024-06-21,4796.18,INR,Zomato,Shopping,Wallet,Pending
+TXN100008,U1022,2024-07-03,5978.3,INR,Swiggy,Food,Credit Card,Pending
+TXN100009,U1008,2024-07-16,11453.99,INR,Uber,Entertainment,Debit Card,Success
+TXN100010,U1052,2024-09-18,44997.7,INR,Uber,Travel,UPI,Success
+TXN100011,U1048,2024-08-31,12775.61,INR,Flipkart,Food,Wallet,Failed
+TXN100012,U1059,2024-10-14,49404.97,INR,Netflix,Shopping,Credit Card,Success
+TXN100013,U1073,2024-08-07,764.75,INR,Spotify,Shopping,UPI,Failed
+TXN100014,U1002,2024-03-29,35832.12,INR,Uber,Travel,Net Banking,Success
+TXN100015,U1079,2024-07-25,49092.71,INR,Netflix,Shopping,Wallet,Pending
+TXN100016,U1049,2024-05-06,48076.68,INR,Uber,Subscription,Credit Card,Failed
+TXN100017,U1030,2024-09-09,25053.32,INR,Flipkart,Entertainment,UPI,Pending
+TXN100018,U1035,2024-11-04,5671.13,INR,Uber,Travel,Debit Card,Success
+TXN100019,U1019,2024-10-24,26415.87,INR,Amazon,Shopping,Net Banking,Failed
+TXN100020,U1008,2024-03-05,2392.34,INR,Netflix,Subscription,Net Banking,Success
+TXN100021,U1008,2024-03-12,21456.87,INR,Zomato,Entertainment,Credit Card,Success
+TXN100022,U1061,2024-04-10,43664.69,INR,Flipkart,Shopping,Credit Card,Failed
+TXN100023,U1088,2024-10-07,21205.51,INR,Spotify,Food,UPI,Success
+TXN100024,U1090,2024-12-18,826.93,INR,Netflix,Entertainment,Wallet,Pending
+TXN100025,U1030,2024-01-07,25239.9,INR,Flipkart,Travel,Credit Card,Failed
+TXN100026,U1075,2024-01-25,11820.49,INR,Swiggy,Entertainment,Net Banking,Pending
+TXN100027,U1036,2024-12-14,23350.69,INR,Netflix,Entertainment,Credit Card,Pending
+TXN100028,U1098,2024-01-18,38614.47,INR,Uber,Travel,Credit Card,Failed
+TXN100029,U1010,2024-03-20,32030.91,INR,Zomato,Travel,Net Banking,Failed
+TXN100030,U1069,2024-11-22,3614.4,INR,Flipkart,Travel,Net Banking,Pending
+TXN100031,U1090,2024-06-30,37672.8,INR,Amazon,Entertainment,UPI,Pending
+TXN100032,U1032,2024-06-20,14300.23,INR,Swiggy,Subscription,UPI,Pending
+TXN100033,U1049,2024-02-06,18587.93,INR,Flipkart,Subscription,Credit Card,Pending
+TXN100034,U1045,2024-11-17,18495.01,INR,Netflix,Travel,Wallet,Failed
+TXN100035,U1065,2024-10-11,9015.05,INR,Flipkart,Shopping,Wallet,Failed
+TXN100036,U1088,2024-12-18,37455.03,INR,Swiggy,Entertainment,Net Banking,Success
+TXN100037,U1087,2024-11-15,19377.9,INR,Zomato,Subscription,Wallet,Success
+TXN100038,U1085,2024-03-05,12188.51,INR,Swiggy,Entertainment,UPI,Pending
+TXN100039,U1042,2024-08-28,37639.33,INR,Uber,Subscription,Credit Card,Pending
+TXN100040,U1068,2024-10-03,17556.75,INR,Uber,Subscription,UPI,Pending
+TXN100041,U1010,2024-02-06,5602.46,INR,Uber,Entertainment,Credit Card,Pending
+TXN100042,U1040,2024-06-17,28862.92,INR,Amazon,Food,Debit Card,Failed
+TXN100043,U1093,2024-04-01,30827.09,INR,Spotify,Entertainment,Debit Card,Failed
+TXN100044,U1060,2024-01-30,6949.81,INR,Zomato,Travel,Wallet,Pending
+TXN100045,U1057,2024-03-09,32673.76,INR,Swiggy,Shopping,Debit Card,Failed
+TXN100046,U1075,2024-08-16,26267.23,INR,Amazon,Shopping,Wallet,Success
+TXN100047,U1077,2024-08-26,32702.36,INR,Swiggy,Subscription,Debit Card,Success
+TXN100048,U1080,2024-08-26,16747.65,INR,Swiggy,Entertainment,Net Banking,Pending
+TXN100049,U1043,2024-06-10,10778.85,INR,Netflix,Shopping,Credit Card,Success
+TXN100050,U1096,2024-12-16,1526.54,INR,Flipkart,Travel,Debit Card,Success
+TXN100051,U1054,2024-01-31,34493.69,INR,Zomato,Travel,Credit Card,Success
+TXN100052,U1066,2024-10-13,25062.66,INR,Zomato,Shopping,Credit Card,Success
+TXN100053,U1007,2024-01-03,30735.25,INR,Swiggy,Travel,Net Banking,Failed
+TXN100054,U1064,2024-03-31,13218.75,INR,Netflix,Shopping,Credit Card,Failed
+TXN100055,U1089,2024-11-17,17493.77,INR,Spotify,Shopping,Wallet,Failed
+TXN100056,U1024,2024-10-04,27742.97,INR,Amazon,Travel,Wallet,Success
+TXN100057,U1082,2024-10-05,15443.11,INR,Amazon,Travel,Debit Card,Success
+TXN100058,U1049,2024-02-29,39337.21,INR,Swiggy,Shopping,Credit Card,Pending
+TXN100059,U1082,2024-07-03,26593.57,INR,Netflix,Travel,Wallet,Failed
+TXN100060,U1011,2024-10-01,48174.15,INR,Uber,Shopping,Debit Card,Failed
+TXN100061,U1003,2024-12-28,30532.19,INR,Zomato,Entertainment,Debit Card,Failed
+TXN100062,U1035,2024-12-05,17872.52,INR,Uber,Travel,Debit Card,Success
+TXN100063,U1043,2024-11-12,7910.97,INR,Flipkart,Subscription,Debit Card,Pending
+TXN100064,U1000,2024-12-01,40897.63,INR,Netflix,Subscription,Credit Card,Pending
+TXN100065,U1097,2024-02-07,4041.76,INR,Flipkart,Subscription,Debit Card,Failed
+TXN100066,U1010,2024-01-26,19017.65,INR,Zomato,Entertainment,Credit Card,Failed
+TXN100067,U1017,2024-09-08,2401.43,INR,Spotify,Travel,Credit Card,Success
+TXN100068,U1044,2024-06-02,26692.33,INR,Netflix,Entertainment,Credit Card,Pending
+TXN100069,U1033,2024-05-06,41961.18,INR,Amazon,Entertainment,Debit Card,Success
+TXN100070,U1085,2024-12-03,21361.7,INR,Zomato,Entertainment,Net Banking,Failed
+TXN100071,U1011,2024-09-17,6447.95,INR,Zomato,Subscription,Credit Card,Failed
+TXN100072,U1024,2024-12-14,42691.83,INR,Uber,Shopping,UPI,Success
+TXN100073,U1023,2024-01-11,15591.57,INR,Amazon,Food,UPI,Success
+TXN100074,U1077,2024-04-20,47573.41,INR,Uber,Subscription,Net Banking,Pending
+TXN100075,U1047,2024-03-26,19194.71,INR,Flipkart,Food,Credit Card,Failed
+TXN100076,U1063,2024-06-05,25345.07,INR,Flipkart,Travel,Debit Card,Failed
+TXN100077,U1075,2024-03-30,47652.06,INR,Netflix,Food,Wallet,Failed
+TXN100078,U1046,2024-08-14,29872.73,INR,Netflix,Food,Net Banking,Success
+TXN100079,U1027,2024-12-01,49881.49,INR,Zomato,Shopping,Credit Card,Success
+TXN100080,U1063,2024-11-30,39386.85,INR,Swiggy,Subscription,UPI,Pending
+TXN100081,U1064,2024-07-10,22550.2,INR,Flipkart,Entertainment,UPI,Failed
+TXN100082,U1009,2024-03-29,30550.23,INR,Netflix,Subscription,UPI,Success
+TXN100083,U1083,2024-07-30,29664.11,INR,Amazon,Travel,Wallet,Success
+TXN100084,U1038,2024-05-08,9549.3,INR,Flipkart,Food,Net Banking,Pending
+TXN100085,U1087,2024-06-16,14696.83,INR,Amazon,Shopping,UPI,Failed
+TXN100086,U1035,2024-07-17,27201.9,INR,Spotify,Travel,Credit Card,Failed
+TXN100087,U1071,2024-08-10,3279.85,INR,Zomato,Travel,Credit Card,Success
+TXN100088,U1047,2024-06-23,36711.69,INR,Netflix,Subscription,Net Banking,Failed
+TXN100089,U1069,2024-05-23,11056.45,INR,Netflix,Food,Credit Card,Pending
+TXN100090,U1069,2024-06-10,46157.94,INR,Spotify,Shopping,UPI,Pending
+TXN100091,U1051,2024-09-16,5017.25,INR,Amazon,Subscription,Debit Card,Pending
+TXN100092,U1084,2024-01-14,17932.84,INR,Netflix,Food,Wallet,Pending
+TXN100093,U1077,2024-08-15,29372.46,INR,Uber,Subscription,Wallet,Failed
+TXN100094,U1002,2024-01-07,24758.29,INR,Zomato,Shopping,Net Banking,Pending
+TXN100095,U1025,2024-01-13,48547.18,INR,Zomato,Shopping,Debit Card,Pending
+TXN100096,U1027,2024-10-05,20036.26,INR,Flipkart,Travel,UPI,Success
+TXN100097,U1067,2024-08-20,17402.97,INR,Swiggy,Shopping,UPI,Pending
+TXN100098,U1044,2024-12-07,18924.63,INR,Uber,Entertainment,Wallet,Failed
+TXN100099,U1050,2024-08-26,25325.81,INR,Spotify,Subscription,Wallet,Pending
+TXN100100,U1064,2024-02-07,5119.72,INR,Uber,Food,Credit Card,Pending
+TXN100101,U1047,2024-12-21,41445.47,INR,Spotify,Entertainment,UPI,Failed
+TXN100102,U1021,2024-12-09,45606.34,INR,Zomato,Entertainment,Credit Card,Pending
+TXN100103,U1015,2024-05-10,34524.79,INR,Swiggy,Travel,UPI,Success
+TXN100104,U1052,2024-06-08,16993.29,INR,Zomato,Travel,Wallet,Pending
+TXN100105,U1020,2024-07-15,16332.11,INR,Swiggy,Travel,Net Banking,Success
+TXN100106,U1081,2024-01-24,36886.62,INR,Uber,Food,Debit Card,Pending
+TXN100107,U1079,2024-08-12,8086.57,INR,Netflix,Subscription,Wallet,Pending
+TXN100108,U1075,2024-09-05,45955.96,INR,Swiggy,Shopping,UPI,Success
+TXN100109,U1095,2024-08-20,13712.52,INR,Netflix,Entertainment,Credit Card,Success
+TXN100110,U1099,2024-12-02,34642.18,INR,Spotify,Shopping,Credit Card,Success
+TXN100111,U1005,2024-06-09,14164.4,INR,Swiggy,Entertainment,Wallet,Failed
+TXN100112,U1038,2024-06-08,26558.03,INR,Swiggy,Entertainment,Credit Card,Pending
+TXN100113,U1088,2024-11-26,9787.1,INR,Zomato,Food,Credit Card,Success
+TXN100114,U1100,2024-05-14,32793.25,INR,Amazon,Subscription,Net Banking,Pending
+TXN100115,U1033,2024-05-17,41809.84,INR,Swiggy,Food,Net Banking,Failed
+TXN100116,U1001,2024-03-13,11505.06,INR,Uber,Entertainment,Debit Card,Pending
+TXN100117,U1032,2024-08-02,13001.26,INR,Uber,Food,Net Banking,Failed
+TXN100118,U1026,2024-01-31,42114.91,INR,Uber,Subscription,Wallet,Pending
+TXN100119,U1082,2024-06-18,35464.89,INR,Amazon,Travel,Net Banking,Failed
+TXN100120,U1039,2024-08-18,1507.27,INR,Netflix,Food,Wallet,Failed
+TXN100121,U1092,2024-01-24,10179.58,INR,Spotify,Shopping,Net Banking,Pending
+TXN100122,U1027,2024-01-13,22648.3,INR,Spotify,Shopping,Wallet,Failed
+TXN100123,U1012,2024-10-09,39395.94,INR,Uber,Food,Net Banking,Pending
+TXN100124,U1085,2024-10-02,38793.27,INR,Zomato,Travel,UPI,Failed
+TXN100125,U1066,2024-04-02,19807.93,INR,Netflix,Subscription,Debit Card,Pending
+TXN100126,U1074,2024-12-04,9690.82,INR,Uber,Entertainment,Net Banking,Success
+TXN100127,U1029,2024-08-22,2099.13,INR,Swiggy,Travel,Debit Card,Pending
+TXN100128,U1073,2024-03-30,36844.89,INR,Netflix,Travel,UPI,Success
+TXN100129,U1025,2024-07-05,10302.06,INR,Netflix,Subscription,Debit Card,Pending
+TXN100130,U1053,2024-10-06,42284.56,INR,Amazon,Shopping,UPI,Failed
+TXN100131,U1090,2024-08-03,42765.75,INR,Flipkart,Subscription,Credit Card,Pending
+TXN100132,U1010,2024-08-21,10999.18,INR,Spotify,Food,UPI,Failed
+TXN100133,U1083,2024-03-21,10105.67,INR,Uber,Entertainment,Credit Card,Pending
+TXN100134,U1073,2024-08-22,45905.12,INR,Swiggy,Shopping,UPI,Pending
+TXN100135,U1018,2024-04-06,15311.9,INR,Amazon,Entertainment,Wallet,Success
+TXN100136,U1010,2024-01-08,35155.28,INR,Swiggy,Travel,Debit Card,Pending
+TXN100137,U1018,2024-04-24,7511.11,INR,Amazon,Food,Credit Card,Failed
+TXN100138,U1085,2024-04-09,21891.58,INR,Flipkart,Food,UPI,Success
+TXN100139,U1032,2024-03-11,34473.67,INR,Spotify,Food,Net Banking,Failed
+TXN100140,U1077,2024-05-29,20360.84,INR,Swiggy,Shopping,Credit Card,Failed
+TXN100141,U1095,2024-07-25,8611.38,INR,Swiggy,Travel,Debit Card,Pending
+TXN100142,U1026,2024-09-05,38422.13,INR,Flipkart,Subscription,Debit Card,Failed
+TXN100143,U1010,2024-08-12,15517.28,INR,Uber,Subscription,UPI,Success
+TXN100144,U1087,2024-10-29,32211.38,INR,Swiggy,Travel,Net Banking,Pending
+TXN100145,U1031,2024-03-01,42087.71,INR,Zomato,Shopping,Wallet,Pending
+TXN100146,U1059,2024-05-01,27091.06,INR,Spotify,Travel,Net Banking,Success
+TXN100147,U1001,2024-12-08,45967.91,INR,Swiggy,Food,Net Banking,Success
+TXN100148,U1058,2024-06-12,34470.63,INR,Swiggy,Subscription,Debit Card,Failed
+TXN100149,U1043,2024-07-24,48604.53,INR,Swiggy,Travel,Debit Card,Pending
+TXN100150,U1062,2024-03-04,35890.61,INR,Swiggy,Entertainment,Wallet,Success
+TXN100151,U1002,2024-06-19,9273.64,INR,Zomato,Subscription,Credit Card,Pending
+TXN100152,U1059,2024-08-01,25432.22,INR,Spotify,Entertainment,Debit Card,Success
+TXN100153,U1024,2024-04-11,42522.5,INR,Zomato,Shopping,Net Banking,Pending
+TXN100154,U1052,2024-10-12,39314.46,INR,Amazon,Travel,Credit Card,Success
+TXN100155,U1043,2024-04-14,21579.15,INR,Flipkart,Entertainment,Credit Card,Success
+TXN100156,U1051,2024-12-03,39487.67,INR,Netflix,Subscription,Net Banking,Failed
+TXN100157,U1014,2024-10-27,31388.68,INR,Spotify,Subscription,Wallet,Failed
+TXN100158,U1078,2024-03-29,39019.85,INR,Swiggy,Food,Credit Card,Failed
+TXN100159,U1041,2024-07-11,1971.87,INR,Flipkart,Food,Wallet,Pending
+TXN100160,U1006,2024-07-09,41011.6,INR,Flipkart,Subscription,Credit Card,Failed
+TXN100161,U1014,2024-05-22,37148.72,INR,Zomato,Entertainment,Wallet,Pending
+TXN100162,U1013,2024-05-24,41035.42,INR,Spotify,Food,UPI,Pending
+TXN100163,U1044,2024-04-06,35048.76,INR,Zomato,Subscription,Wallet,Success
+TXN100164,U1083,2024-01-29,6176.71,INR,Swiggy,Shopping,UPI,Failed
+TXN100165,U1070,2024-02-05,25821.82,INR,Spotify,Subscription,Wallet,Success
+TXN100166,U1073,2024-06-21,21847.49,INR,Netflix,Shopping,Credit Card,Success
+TXN100167,U1084,2024-07-02,29845.8,INR,Uber,Subscription,Wallet,Success
+TXN100168,U1047,2024-03-16,8390.64,INR,Zomato,Travel,Wallet,Success
+TXN100169,U1062,2024-01-05,27328.3,INR,Swiggy,Travel,Debit Card,Success
+TXN100170,U1060,2024-01-30,47848.5,INR,Swiggy,Food,UPI,Success
+TXN100171,U1058,2024-07-04,4787.19,INR,Zomato,Shopping,UPI,Success
+TXN100172,U1012,2024-12-19,36535.56,INR,Uber,Subscription,UPI,Pending
+TXN100173,U1022,2024-01-05,10404.04,INR,Amazon,Shopping,Wallet,Success
+TXN100174,U1087,2024-06-27,3145.16,INR,Zomato,Food,Debit Card,Pending
+TXN100175,U1002,2024-04-28,41983.46,INR,Netflix,Entertainment,Debit Card,Pending
+TXN100176,U1077,2024-02-08,36894.58,INR,Zomato,Food,UPI,Failed
+TXN100177,U1043,2024-08-23,3882.06,INR,Amazon,Shopping,UPI,Failed
+TXN100178,U1000,2024-11-30,31535.7,INR,Netflix,Shopping,Wallet,Pending
+TXN100179,U1025,2024-06-10,38294.51,INR,Swiggy,Travel,UPI,Failed
+TXN100180,U1066,2024-07-13,41816.09,INR,Zomato,Shopping,Debit Card,Pending
+TXN100181,U1090,2024-07-06,21031.75,INR,Zomato,Travel,Wallet,Pending
+TXN100182,U1080,2024-04-16,48024.9,INR,Amazon,Food,UPI,Pending
+TXN100183,U1096,2024-12-02,23835.12,INR,Spotify,Shopping,Wallet,Success
+TXN100184,U1042,2024-11-11,3816.47,INR,Amazon,Travel,Debit Card,Pending
+TXN100185,U1073,2024-07-21,16057.4,INR,Swiggy,Travel,Credit Card,Failed
+TXN100186,U1025,2024-10-05,25779.31,INR,Flipkart,Shopping,Net Banking,Failed
+TXN100187,U1065,2024-04-04,22085.87,INR,Flipkart,Shopping,Credit Card,Success
+TXN100188,U1018,2024-01-08,37703.21,INR,Uber,Subscription,Net Banking,Failed
+TXN100189,U1049,2024-07-15,48463.68,INR,Uber,Subscription,UPI,Failed
+TXN100190,U1042,2024-06-02,14039.2,INR,Flipkart,Food,Debit Card,Success
+TXN100191,U1077,2024-08-24,32574.22,INR,Swiggy,Subscription,UPI,Pending
+TXN100192,U1036,2024-07-14,4184.69,INR,Spotify,Food,Credit Card,Success
+TXN100193,U1026,2024-09-05,32493.62,INR,Swiggy,Food,Wallet,Success
+TXN100194,U1040,2024-05-04,25082.08,INR,Swiggy,Shopping,Debit Card,Success
+TXN100195,U1064,2024-09-22,49126.91,INR,Amazon,Subscription,Wallet,Pending
+TXN100196,U1009,2024-02-22,42720.26,INR,Spotify,Food,Wallet,Success
+TXN100197,U1018,2024-12-30,37516.96,INR,Spotify,Entertainment,Wallet,Pending
+TXN100198,U1051,2024-07-18,5359.18,INR,Amazon,Food,Wallet,Success
+TXN100199,U1081,2024-08-20,43583.02,INR,Flipkart,Subscription,UPI,Pending
+TXN100200,U1058,2024-05-06,3583.35,INR,Flipkart,Entertainment,Wallet,Success
+TXN100201,U1071,2024-03-23,13341.21,INR,Zomato,Subscription,Credit Card,Failed
+TXN100202,U1092,2024-09-05,16811.88,INR,Amazon,Food,Net Banking,Pending
+TXN100203,U1005,2024-08-29,39847.84,INR,Amazon,Entertainment,Wallet,Success
+TXN100204,U1019,2024-01-26,42164.83,INR,Spotify,Subscription,Net Banking,Pending
+TXN100205,U1040,2024-06-21,14344.91,INR,Zomato,Shopping,Wallet,Success
+TXN100206,U1002,2024-11-27,15168.69,INR,Swiggy,Subscription,Wallet,Success
+TXN100207,U1084,2024-10-12,1169.5,INR,Flipkart,Entertainment,Wallet,Success
+TXN100208,U1023,2024-04-17,5419.35,INR,Swiggy,Subscription,Net Banking,Success
+TXN100209,U1033,2024-05-08,30435.35,INR,Amazon,Food,UPI,Pending
+TXN100210,U1033,2024-11-29,43064.69,INR,Netflix,Travel,Debit Card,Pending
+TXN100211,U1025,2024-04-30,35142.31,INR,Flipkart,Entertainment,Net Banking,Success
+TXN100212,U1037,2024-06-03,36667.23,INR,Spotify,Subscription,Credit Card,Pending
+TXN100213,U1066,2024-01-25,45235.54,INR,Amazon,Entertainment,UPI,Pending
+TXN100214,U1059,2024-01-20,35908.38,INR,Uber,Food,Wallet,Pending
+TXN100215,U1042,2024-12-04,10056.87,INR,Uber,Subscription,Credit Card,Success
+TXN100216,U1092,2024-06-07,49320.92,INR,Uber,Shopping,Net Banking,Failed
+TXN100217,U1065,2024-07-30,44982.56,INR,Spotify,Shopping,Net Banking,Success
+TXN100218,U1043,2024-02-16,7175.6,INR,Spotify,Subscription,Net Banking,Failed
+TXN100219,U1058,2024-12-01,5582.0,INR,Netflix,Travel,Credit Card,Success
+TXN100220,U1080,2024-06-24,4240.03,INR,Swiggy,Travel,Wallet,Success
+TXN100221,U1083,2024-08-04,19659.4,INR,Spotify,Travel,UPI,Failed
+TXN100222,U1072,2024-10-06,21608.19,INR,Spotify,Subscription,UPI,Failed
+TXN100223,U1048,2024-11-22,37038.65,INR,Netflix,Travel,Credit Card,Pending
+TXN100224,U1056,2024-10-06,12294.17,INR,Spotify,Travel,Wallet,Success
+TXN100225,U1074,2024-11-08,18666.48,INR,Swiggy,Food,Net Banking,Pending
+TXN100226,U1004,2024-08-28,21187.15,INR,Spotify,Subscription,Credit Card,Failed
+TXN100227,U1029,2024-09-22,31745.1,INR,Spotify,Entertainment,Wallet,Failed
+TXN100228,U1021,2024-05-27,41996.09,INR,Amazon,Travel,UPI,Pending
+TXN100229,U1062,2024-02-22,19704.85,INR,Amazon,Entertainment,Debit Card,Pending
+TXN100230,U1066,2024-06-30,37589.99,INR,Zomato,Shopping,UPI,Success
+TXN100231,U1098,2024-05-20,40463.09,INR,Netflix,Travel,UPI,Pending
+TXN100232,U1027,2024-11-28,14834.9,INR,Zomato,Subscription,Net Banking,Failed
+TXN100233,U1027,2024-06-25,4800.63,INR,Netflix,Shopping,Credit Card,Failed
+TXN100234,U1025,2024-08-21,22674.44,INR,Uber,Shopping,Net Banking,Pending
+TXN100235,U1002,2024-07-07,17249.85,INR,Amazon,Entertainment,Wallet,Success
+TXN100236,U1043,2024-05-22,43232.06,INR,Amazon,Entertainment,Net Banking,Failed
+TXN100237,U1067,2024-03-03,42650.8,INR,Swiggy,Entertainment,Net Banking,Success
+TXN100238,U1005,2024-10-04,33381.27,INR,Zomato,Travel,Net Banking,Success
+TXN100239,U1059,2024-01-07,20181.9,INR,Amazon,Entertainment,Net Banking,Pending
+TXN100240,U1097,2024-10-06,5958.57,INR,Spotify,Food,Debit Card,Failed
+TXN100241,U1097,2024-12-09,36200.35,INR,Flipkart,Food,Credit Card,Failed
+TXN100242,U1009,2024-05-02,38671.16,INR,Uber,Entertainment,Wallet,Pending
+TXN100243,U1079,2024-12-02,29679.39,INR,Swiggy,Entertainment,Net Banking,Failed
+TXN100244,U1058,2024-01-04,15713.3,INR,Swiggy,Food,Credit Card,Success
+TXN100245,U1066,2024-03-22,35459.22,INR,Netflix,Entertainment,Credit Card,Success
+TXN100246,U1056,2024-11-15,47948.55,INR,Netflix,Shopping,Debit Card,Failed
+TXN100247,U1074,2024-07-21,20487.2,INR,Spotify,Entertainment,Wallet,Success
+TXN100248,U1085,2024-07-19,9601.31,INR,Spotify,Travel,Net Banking,Failed
+TXN100249,U1068,2024-01-24,42760.01,INR,Flipkart,Entertainment,Wallet,Pending
+TXN100250,U1020,2024-04-04,40178.84,INR,Uber,Entertainment,Wallet,Success
+TXN100251,U1002,2024-09-01,12595.16,INR,Spotify,Entertainment,Debit Card,Success
+TXN100252,U1071,2024-08-23,22134.63,INR,Uber,Travel,UPI,Pending
+TXN100253,U1084,2024-01-19,44991.15,INR,Uber,Entertainment,Net Banking,Failed
+TXN100254,U1077,2024-08-27,36674.94,INR,Uber,Entertainment,Debit Card,Pending
+TXN100255,U1001,2024-06-28,32561.86,INR,Netflix,Subscription,Credit Card,Pending
+TXN100256,U1094,2024-06-25,17962.89,INR,Spotify,Subscription,Debit Card,Pending
+TXN100257,U1000,2024-02-22,26410.48,INR,Spotify,Travel,Credit Card,Failed
+TXN100258,U1017,2024-11-01,10103.68,INR,Amazon,Subscription,Net Banking,Success
+TXN100259,U1091,2024-02-13,25473.07,INR,Spotify,Subscription,Wallet,Success
+TXN100260,U1030,2024-06-11,35786.01,INR,Swiggy,Subscription,Wallet,Failed
+TXN100261,U1094,2024-09-26,39147.05,INR,Uber,Travel,Wallet,Failed
+TXN100262,U1022,2024-08-28,13825.44,INR,Netflix,Food,UPI,Success
+TXN100263,U1073,2024-05-06,49562.17,INR,Zomato,Travel,Credit Card,Pending
+TXN100264,U1053,2024-07-29,17394.25,INR,Swiggy,Entertainment,Net Banking,Failed
+TXN100265,U1009,2024-07-09,38563.31,INR,Zomato,Shopping,Credit Card,Failed
+TXN100266,U1031,2024-09-04,49627.13,INR,Flipkart,Shopping,Debit Card,Failed
+TXN100267,U1067,2024-12-09,42913.27,INR,Spotify,Food,Credit Card,Success
+TXN100268,U1031,2024-02-01,25111.58,INR,Amazon,Food,Wallet,Failed
+TXN100269,U1059,2024-02-16,49752.65,INR,Netflix,Shopping,Net Banking,Failed
+TXN100270,U1003,2024-11-08,2936.52,INR,Amazon,Shopping,Net Banking,Pending
+TXN100271,U1012,2024-07-11,24998.73,INR,Uber,Entertainment,Net Banking,Failed
+TXN100272,U1027,2024-07-19,43721.71,INR,Zomato,Shopping,Wallet,Failed
+TXN100273,U1046,2024-09-09,11415.85,INR,Uber,Travel,Credit Card,Success
+TXN100274,U1024,2024-10-01,36474.16,INR,Flipkart,Subscription,Wallet,Success
+TXN100275,U1010,2024-02-07,2046.06,INR,Flipkart,Food,Wallet,Pending
+TXN100276,U1046,2024-12-15,30855.61,INR,Amazon,Entertainment,Net Banking,Success
+TXN100277,U1048,2024-10-12,5184.98,INR,Zomato,Food,Debit Card,Success
+TXN100278,U1003,2024-08-22,12368.82,INR,Uber,Shopping,UPI,Failed
+TXN100279,U1007,2024-03-24,32643.25,INR,Netflix,Subscription,UPI,Pending
+TXN100280,U1084,2024-03-01,32562.06,INR,Zomato,Subscription,Net Banking,Failed
+TXN100281,U1011,2024-12-02,18627.96,INR,Flipkart,Food,Net Banking,Pending
+TXN100282,U1040,2024-12-18,46486.73,INR,Zomato,Entertainment,Credit Card,Pending
+TXN100283,U1027,2024-12-02,22317.6,INR,Spotify,Subscription,Net Banking,Pending
+TXN100284,U1098,2024-12-24,45077.62,INR,Netflix,Entertainment,Debit Card,Pending
+TXN100285,U1065,2024-05-10,39641.38,INR,Uber,Travel,UPI,Pending
+TXN100286,U1008,2024-07-18,2751.97,INR,Netflix,Shopping,UPI,Success
+TXN100287,U1080,2024-12-10,14407.14,INR,Flipkart,Entertainment,Wallet,Pending
+TXN100288,U1067,2024-09-08,30051.5,INR,Swiggy,Travel,Debit Card,Pending
+TXN100289,U1067,2024-10-07,21928.13,INR,Spotify,Food,Net Banking,Pending
+TXN100290,U1046,2024-02-04,9918.43,INR,Flipkart,Travel,Net Banking,Success
+TXN100291,U1056,2024-02-29,46265.27,INR,Amazon,Entertainment,Net Banking,Failed
+TXN100292,U1023,2024-11-22,27369.28,INR,Netflix,Entertainment,Credit Card,Failed
+TXN100293,U1076,2024-02-03,13837.88,INR,Zomato,Subscription,Debit Card,Pending
+TXN100294,U1069,2024-03-12,18247.75,INR,Amazon,Travel,Debit Card,Success
+TXN100295,U1001,2024-11-30,43602.01,INR,Amazon,Shopping,Credit Card,Pending
+TXN100296,U1015,2024-04-30,36740.72,INR,Zomato,Shopping,Wallet,Pending
+TXN100297,U1043,2024-10-19,2714.27,INR,Amazon,Travel,UPI,Pending
+TXN100298,U1000,2024-12-12,39676.48,INR,Zomato,Travel,Credit Card,Failed
+TXN100299,U1009,2024-11-26,20516.19,INR,Netflix,Food,Net Banking,Failed
+TXN100300,U1096,2024-03-28,110.44,INR,Flipkart,Food,Debit Card,Failed
+TXN100301,U1057,2024-05-29,3902.6,INR,Swiggy,Subscription,Credit Card,Pending
+TXN100302,U1046,2024-09-13,36554.39,INR,Netflix,Shopping,Credit Card,Success
+TXN100303,U1005,2024-03-14,20756.61,INR,Zomato,Subscription,Credit Card,Pending
+TXN100304,U1015,2024-03-05,39963.86,INR,Uber,Food,Credit Card,Success
+TXN100305,U1022,2024-01-02,40863.29,INR,Netflix,Food,UPI,Success
+TXN100306,U1016,2024-10-14,19828.26,INR,Netflix,Subscription,UPI,Pending
+TXN100307,U1048,2024-03-18,28981.09,INR,Netflix,Food,UPI,Success
+TXN100308,U1066,2024-08-20,28368.13,INR,Flipkart,Food,Debit Card,Failed
+TXN100309,U1092,2024-01-09,29633.55,INR,Flipkart,Subscription,Debit Card,Success
+TXN100310,U1074,2024-12-30,29516.59,INR,Spotify,Food,Credit Card,Success
+TXN100311,U1061,2024-05-27,2700.23,INR,Amazon,Subscription,Net Banking,Failed
+TXN100312,U1094,2024-03-16,28365.59,INR,Flipkart,Travel,Debit Card,Success
+TXN100313,U1082,2024-01-11,17672.4,INR,Swiggy,Travel,Debit Card,Pending
+TXN100314,U1048,2024-08-24,795.55,INR,Uber,Food,Debit Card,Failed
+TXN100315,U1004,2024-10-05,29918.94,INR,Spotify,Food,Debit Card,Failed
+TXN100316,U1037,2024-12-24,8245.03,INR,Spotify,Subscription,Net Banking,Pending
+TXN100317,U1003,2024-06-04,21979.04,INR,Swiggy,Shopping,Wallet,Pending
+TXN100318,U1086,2024-01-28,41419.69,INR,Flipkart,Food,UPI,Success
+TXN100319,U1073,2024-10-13,36825.79,INR,Flipkart,Subscription,UPI,Success
+TXN100320,U1007,2024-10-09,6997.26,INR,Amazon,Entertainment,Debit Card,Failed
+TXN100321,U1062,2024-07-27,14127.54,INR,Flipkart,Entertainment,Wallet,Success
+TXN100322,U1051,2024-01-17,5453.11,INR,Uber,Shopping,Net Banking,Success
+TXN100323,U1051,2024-08-29,25864.88,INR,Uber,Travel,Debit Card,Failed
+TXN100324,U1089,2024-06-03,22578.56,INR,Spotify,Entertainment,Net Banking,Success
+TXN100325,U1084,2024-02-24,34047.92,INR,Swiggy,Shopping,Credit Card,Failed
+TXN100326,U1062,2024-12-25,29424.47,INR,Zomato,Travel,Wallet,Failed
+TXN100327,U1010,2024-01-04,47439.94,INR,Netflix,Travel,Wallet,Pending
+TXN100328,U1087,2024-06-02,40671.57,INR,Netflix,Shopping,UPI,Success
+TXN100329,U1012,2024-12-27,8666.91,INR,Spotify,Shopping,UPI,Failed
+TXN100330,U1097,2024-04-08,25832.27,INR,Zomato,Shopping,Wallet,Failed
+TXN100331,U1054,2024-07-30,14724.41,INR,Netflix,Shopping,Net Banking,Failed
+TXN100332,U1077,2024-04-05,24849.04,INR,Flipkart,Shopping,Net Banking,Success
+TXN100333,U1026,2024-08-02,39281.52,INR,Netflix,Shopping,UPI,Pending
+TXN100334,U1020,2024-05-21,29776.2,INR,Uber,Food,Credit Card,Failed
+TXN100335,U1016,2024-12-25,19973.16,INR,Netflix,Subscription,Credit Card,Pending
+TXN100336,U1090,2024-03-13,16146.11,INR,Amazon,Travel,Credit Card,Success
+TXN100337,U1051,2024-03-13,32136.3,INR,Flipkart,Travel,Wallet,Failed
+TXN100338,U1062,2024-11-16,35009.04,INR,Uber,Subscription,Debit Card,Success
+TXN100339,U1019,2024-11-05,9031.16,INR,Uber,Subscription,UPI,Pending
+TXN100340,U1051,2024-02-12,966.44,INR,Zomato,Shopping,UPI,Pending
+TXN100341,U1085,2024-12-06,10259.65,INR,Spotify,Subscription,Credit Card,Failed
+TXN100342,U1059,2024-08-25,29534.51,INR,Spotify,Entertainment,Wallet,Pending
+TXN100343,U1027,2024-01-31,38409.51,INR,Spotify,Entertainment,Net Banking,Failed
+TXN100344,U1007,2024-01-04,19666.79,INR,Spotify,Subscription,Credit Card,Success
+TXN100345,U1086,2024-09-27,44726.12,INR,Flipkart,Subscription,UPI,Success
+TXN100346,U1000,2024-07-14,4808.47,INR,Swiggy,Entertainment,Credit Card,Failed
+TXN100347,U1071,2024-08-27,1862.27,INR,Spotify,Shopping,Wallet,Success
+TXN100348,U1045,2024-08-09,3795.77,INR,Spotify,Shopping,Credit Card,Failed
+TXN100349,U1049,2024-03-19,38138.71,INR,Netflix,Food,Debit Card,Failed
+TXN100350,U1082,2024-08-25,14332.42,INR,Zomato,Food,Credit Card,Pending
+TXN100351,U1078,2024-11-09,48550.04,INR,Zomato,Subscription,UPI,Success
+TXN100352,U1054,2024-04-12,10216.02,INR,Spotify,Entertainment,Debit Card,Success
+TXN100353,U1061,2024-05-21,4920.13,INR,Swiggy,Entertainment,Credit Card,Pending
+TXN100354,U1037,2024-05-08,47967.87,INR,Zomato,Food,UPI,Pending
+TXN100355,U1030,2024-03-21,29635.38,INR,Zomato,Travel,Wallet,Success
+TXN100356,U1082,2024-02-15,25579.17,INR,Uber,Entertainment,Credit Card,Failed
+TXN100357,U1074,2024-09-19,10105.01,INR,Netflix,Entertainment,Debit Card,Success
+TXN100358,U1066,2024-10-16,19645.46,INR,Uber,Food,Credit Card,Success
+TXN100359,U1086,2024-02-19,19271.13,INR,Spotify,Food,Wallet,Failed
+TXN100360,U1069,2024-03-03,36483.69,INR,Netflix,Travel,Net Banking,Pending
+TXN100361,U1066,2024-04-06,1461.8,INR,Flipkart,Travel,Credit Card,Pending
+TXN100362,U1033,2024-07-08,35639.2,INR,Spotify,Food,Net Banking,Success
+TXN100363,U1065,2024-06-02,13387.94,INR,Amazon,Subscription,UPI,Pending
+TXN100364,U1061,2024-02-27,31297.34,INR,Swiggy,Food,UPI,Pending
+TXN100365,U1025,2024-10-17,41484.61,INR,Spotify,Subscription,Wallet,Pending
+TXN100366,U1094,2024-11-05,2008.75,INR,Flipkart,Subscription,UPI,Success
+TXN100367,U1055,2024-09-04,32338.04,INR,Spotify,Travel,Wallet,Failed
+TXN100368,U1007,2024-02-03,49161.13,INR,Amazon,Entertainment,Credit Card,Failed
+TXN100369,U1029,2024-02-21,38799.33,INR,Swiggy,Entertainment,Wallet,Success
+TXN100370,U1054,2024-05-22,12874.51,INR,Zomato,Shopping,Net Banking,Failed
+TXN100371,U1061,2024-02-01,25129.63,INR,Swiggy,Food,Wallet,Pending
+TXN100372,U1051,2024-01-08,25666.51,INR,Flipkart,Food,Net Banking,Pending
+TXN100373,U1056,2024-09-06,8499.77,INR,Spotify,Entertainment,Net Banking,Pending
+TXN100374,U1052,2024-08-12,7729.33,INR,Uber,Food,Net Banking,Failed
+TXN100375,U1033,2024-04-12,28325.92,INR,Spotify,Entertainment,Debit Card,Failed
+TXN100376,U1003,2024-04-24,2609.9,INR,Netflix,Travel,Credit Card,Success
+TXN100377,U1000,2024-05-14,32976.06,INR,Netflix,Shopping,Net Banking,Success
+TXN100378,U1010,2024-12-08,8474.61,INR,Swiggy,Travel,Debit Card,Failed
+TXN100379,U1059,2024-08-09,4682.58,INR,Amazon,Travel,Wallet,Success
+TXN100380,U1057,2024-02-14,3515.95,INR,Zomato,Travel,Credit Card,Failed
+TXN100381,U1033,2024-01-09,19756.59,INR,Amazon,Travel,Credit Card,Failed
+TXN100382,U1041,2024-04-09,24271.42,INR,Swiggy,Travel,Net Banking,Pending
+TXN100383,U1043,2024-01-27,3072.97,INR,Amazon,Shopping,Net Banking,Pending
+TXN100384,U1017,2024-09-25,49416.33,INR,Zomato,Travel,Wallet,Pending
+TXN100385,U1071,2024-07-05,15373.06,INR,Uber,Travel,Credit Card,Pending
+TXN100386,U1041,2024-07-30,16382.48,INR,Uber,Travel,Wallet,Failed
+TXN100387,U1065,2024-06-10,736.27,INR,Amazon,Food,Credit Card,Pending
+TXN100388,U1085,2024-09-29,39571.25,INR,Zomato,Shopping,Wallet,Pending
+TXN100389,U1039,2024-07-02,36528.12,INR,Spotify,Entertainment,Wallet,Failed
+TXN100390,U1051,2024-10-25,13022.11,INR,Uber,Subscription,Wallet,Success
+TXN100391,U1061,2024-07-18,6191.08,INR,Swiggy,Subscription,Credit Card,Success
+TXN100392,U1066,2024-12-11,6661.46,INR,Zomato,Food,Debit Card,Success
+TXN100393,U1026,2024-02-14,16870.59,INR,Amazon,Food,Credit Card,Pending
+TXN100394,U1081,2024-05-19,26364.88,INR,Uber,Travel,Wallet,Pending
+TXN100395,U1057,2024-04-07,32968.36,INR,Uber,Travel,Net Banking,Success
+TXN100396,U1085,2024-07-14,18021.53,INR,Spotify,Entertainment,Net Banking,Failed
+TXN100397,U1005,2024-02-02,6988.75,INR,Uber,Entertainment,Credit Card,Failed
+TXN100398,U1096,2024-02-17,620.55,INR,Uber,Subscription,Credit Card,Success
+TXN100399,U1064,2024-01-17,7146.23,INR,Uber,Shopping,UPI,Success
+TXN100400,U1087,2024-01-29,24165.25,INR,Amazon,Travel,Debit Card,Success
+TXN100401,U1011,2024-07-22,30556.68,INR,Flipkart,Entertainment,UPI,Failed
+TXN100402,U1018,2024-09-30,43922.78,INR,Flipkart,Subscription,Debit Card,Failed
+TXN100403,U1064,2024-03-01,10873.85,INR,Amazon,Entertainment,Debit Card,Pending
+TXN100404,U1094,2024-12-15,27028.45,INR,Amazon,Subscription,Credit Card,Success
+TXN100405,U1052,2024-06-06,22812.34,INR,Flipkart,Food,Credit Card,Failed
+TXN100406,U1042,2024-01-11,26528.64,INR,Spotify,Travel,UPI,Success
+TXN100407,U1023,2024-11-11,14666.11,INR,Amazon,Entertainment,Wallet,Pending
+TXN100408,U1010,2024-01-30,44204.28,INR,Netflix,Travel,Wallet,Pending
+TXN100409,U1094,2024-12-07,19426.42,INR,Netflix,Entertainment,Debit Card,Success
+TXN100410,U1019,2024-07-29,12560.14,INR,Amazon,Subscription,Credit Card,Success
+TXN100411,U1024,2024-01-28,21044.24,INR,Amazon,Entertainment,UPI,Pending
+TXN100412,U1000,2024-01-09,9800.29,INR,Amazon,Subscription,Net Banking,Success
+TXN100413,U1078,2024-09-04,33270.32,INR,Spotify,Travel,UPI,Pending
+TXN100414,U1035,2024-11-09,26522.35,INR,Zomato,Entertainment,Net Banking,Pending
+TXN100415,U1015,2024-04-22,7778.59,INR,Spotify,Travel,UPI,Success
+TXN100416,U1086,2024-11-11,28355.52,INR,Flipkart,Food,Credit Card,Success
+TXN100417,U1003,2024-10-23,41079.47,INR,Flipkart,Subscription,Debit Card,Pending
+TXN100418,U1090,2024-08-10,42785.23,INR,Flipkart,Food,UPI,Pending
+TXN100419,U1098,2024-10-13,18240.05,INR,Uber,Travel,Credit Card,Pending
+TXN100420,U1060,2024-11-04,49065.85,INR,Spotify,Food,Wallet,Success
+TXN100421,U1066,2024-12-13,23864.0,INR,Amazon,Food,Wallet,Success
+TXN100422,U1082,2024-03-07,28767.34,INR,Zomato,Entertainment,Wallet,Failed
+TXN100423,U1099,2024-03-26,9585.66,INR,Swiggy,Food,Wallet,Failed
+TXN100424,U1058,2024-07-24,44248.25,INR,Zomato,Shopping,Net Banking,Pending
+TXN100425,U1073,2024-05-10,11650.41,INR,Amazon,Food,Debit Card,Pending
+TXN100426,U1087,2024-07-31,1248.84,INR,Spotify,Subscription,UPI,Success
+TXN100427,U1032,2024-02-11,2371.96,INR,Netflix,Subscription,Net Banking,Failed
+TXN100428,U1067,2024-12-11,49315.23,INR,Swiggy,Subscription,Wallet,Success
+TXN100429,U1028,2024-05-16,2941.76,INR,Spotify,Entertainment,Net Banking,Pending
+TXN100430,U1071,2024-05-25,34032.67,INR,Spotify,Travel,Credit Card,Failed
+TXN100431,U1005,2024-06-02,28805.25,INR,Spotify,Entertainment,UPI,Success
+TXN100432,U1035,2024-03-20,30937.65,INR,Zomato,Travel,Wallet,Success
+TXN100433,U1036,2024-06-06,7930.23,INR,Netflix,Shopping,Debit Card,Pending
+TXN100434,U1095,2024-10-21,37553.46,INR,Swiggy,Entertainment,Credit Card,Success
+TXN100435,U1062,2024-05-03,9054.99,INR,Flipkart,Shopping,Debit Card,Success
+TXN100436,U1017,2024-12-19,22036.7,INR,Spotify,Entertainment,Net Banking,Failed
+TXN100437,U1064,2024-10-23,46522.85,INR,Flipkart,Subscription,Wallet,Pending
+TXN100438,U1064,2024-11-26,22032.53,INR,Uber,Entertainment,Debit Card,Pending
+TXN100439,U1029,2024-06-15,30183.27,INR,Zomato,Food,Net Banking,Success
+TXN100440,U1006,2024-01-27,16531.6,INR,Swiggy,Entertainment,Credit Card,Success
+TXN100441,U1088,2024-08-26,31970.53,INR,Flipkart,Food,Net Banking,Success
+TXN100442,U1094,2024-04-01,38304.55,INR,Zomato,Subscription,Debit Card,Pending
+TXN100443,U1017,2024-07-05,32729.13,INR,Zomato,Shopping,Wallet,Failed
+TXN100444,U1100,2024-07-15,34761.34,INR,Swiggy,Subscription,UPI,Success
+TXN100445,U1043,2024-02-06,49097.49,INR,Flipkart,Food,Debit Card,Failed
+TXN100446,U1069,2024-06-14,34862.48,INR,Uber,Subscription,UPI,Failed
+TXN100447,U1015,2024-05-02,48619.16,INR,Netflix,Food,Net Banking,Success
+TXN100448,U1089,2024-02-14,12928.01,INR,Amazon,Shopping,Credit Card,Pending
+TXN100449,U1052,2024-09-18,8877.65,INR,Flipkart,Travel,Wallet,Failed
+TXN100450,U1002,2024-05-22,32435.33,INR,Swiggy,Travel,UPI,Failed
+TXN100451,U1056,2024-03-20,33527.46,INR,Flipkart,Shopping,Credit Card,Success
+TXN100452,U1049,2024-07-29,41624.38,INR,Zomato,Shopping,Net Banking,Success
+TXN100453,U1072,2024-09-02,21362.94,INR,Amazon,Travel,Net Banking,Pending
+TXN100454,U1083,2024-03-03,27084.76,INR,Zomato,Food,Net Banking,Pending
+TXN100455,U1002,2024-09-06,6713.17,INR,Amazon,Food,UPI,Success
+TXN100456,U1003,2024-02-19,38810.83,INR,Swiggy,Shopping,Wallet,Failed
+TXN100457,U1020,2024-11-17,7880.61,INR,Swiggy,Subscription,Credit Card,Failed
+TXN100458,U1068,2024-10-30,42422.6,INR,Flipkart,Subscription,Debit Card,Success
+TXN100459,U1008,2024-08-03,29743.17,INR,Flipkart,Shopping,Wallet,Success
+TXN100460,U1016,2024-07-19,13389.27,INR,Amazon,Entertainment,Net Banking,Pending
+TXN100461,U1050,2024-12-02,1702.74,INR,Zomato,Travel,UPI,Pending
+TXN100462,U1088,2024-09-09,48666.01,INR,Zomato,Entertainment,Net Banking,Failed
+TXN100463,U1036,2024-12-16,17333.31,INR,Netflix,Travel,Credit Card,Failed
+TXN100464,U1098,2024-03-09,22428.09,INR,Zomato,Entertainment,Debit Card,Failed
+TXN100465,U1068,2024-04-23,7197.82,INR,Spotify,Subscription,Wallet,Success
+TXN100466,U1064,2024-12-08,13911.84,INR,Flipkart,Entertainment,UPI,Success
+TXN100467,U1018,2024-04-26,1358.54,INR,Zomato,Shopping,UPI,Failed
+TXN100468,U1021,2024-06-07,33776.66,INR,Spotify,Travel,UPI,Pending
+TXN100469,U1055,2024-03-19,40174.34,INR,Zomato,Entertainment,Net Banking,Success
+TXN100470,U1043,2024-01-12,620.14,INR,Amazon,Food,Credit Card,Failed
+TXN100471,U1042,2024-07-27,28334.61,INR,Flipkart,Travel,Credit Card,Success
+TXN100472,U1004,2024-03-24,35235.29,INR,Uber,Food,Wallet,Success
+TXN100473,U1028,2024-06-25,29261.79,INR,Spotify,Shopping,Credit Card,Failed
+TXN100474,U1024,2024-04-24,1280.95,INR,Netflix,Shopping,Net Banking,Pending
+TXN100475,U1098,2024-11-14,37321.92,INR,Netflix,Shopping,Wallet,Failed
+TXN100476,U1002,2024-10-26,16723.41,INR,Spotify,Travel,Credit Card,Pending
+TXN100477,U1025,2024-09-10,46348.49,INR,Amazon,Subscription,Credit Card,Success
+TXN100478,U1054,2024-10-13,43055.56,INR,Netflix,Shopping,Debit Card,Success
+TXN100479,U1058,2024-05-16,39429.84,INR,Flipkart,Shopping,Wallet,Success
+TXN100480,U1051,2024-04-23,17695.71,INR,Flipkart,Food,Credit Card,Success
+TXN100481,U1083,2024-07-29,21015.01,INR,Uber,Subscription,Debit Card,Success
+TXN100482,U1096,2024-06-01,25044.69,INR,Amazon,Shopping,Debit Card,Success
+TXN100483,U1015,2024-12-06,26965.54,INR,Spotify,Food,Net Banking,Pending
+TXN100484,U1079,2024-08-19,41340.04,INR,Flipkart,Food,UPI,Failed
+TXN100485,U1087,2024-10-11,6767.04,INR,Swiggy,Subscription,Wallet,Success
+TXN100486,U1031,2024-01-27,44964.96,INR,Netflix,Food,UPI,Success
+TXN100487,U1014,2024-12-25,22604.3,INR,Amazon,Entertainment,Wallet,Failed
+TXN100488,U1084,2024-10-07,22968.04,INR,Amazon,Subscription,Credit Card,Success
+TXN100489,U1037,2024-12-17,37321.01,INR,Uber,Shopping,Net Banking,Success
+TXN100490,U1081,2024-07-31,11288.61,INR,Uber,Travel,Net Banking,Failed
+TXN100491,U1036,2024-03-17,9127.69,INR,Swiggy,Entertainment,Credit Card,Success
+TXN100492,U1033,2024-09-25,27423.94,INR,Uber,Subscription,Debit Card,Pending
+TXN100493,U1074,2024-05-13,31619.1,INR,Flipkart,Shopping,Credit Card,Failed
+TXN100494,U1026,2024-06-22,17718.76,INR,Uber,Food,UPI,Pending
+TXN100495,U1026,2024-08-11,28465.38,INR,Zomato,Travel,UPI,Success
+TXN100496,U1019,2024-10-27,49451.29,INR,Spotify,Travel,Credit Card,Failed
+TXN100497,U1094,2024-08-22,16186.44,INR,Netflix,Food,UPI,Pending
+TXN100498,U1068,2024-02-06,28857.26,INR,Uber,Subscription,Net Banking,Pending
+TXN100499,U1081,2024-03-31,5225.59,INR,Uber,Entertainment,Debit Card,Pending
+TXN100500,U1051,2024-06-28,10203.84,INR,Spotify,Subscription,UPI,Success
+TXN100501,U1054,2024-05-05,38884.44,INR,Zomato,Shopping,UPI,Success
+TXN100502,U1062,2024-12-16,27076.96,INR,Uber,Food,UPI,Pending
+TXN100503,U1089,2024-06-19,17695.81,INR,Netflix,Travel,Debit Card,Failed
+TXN100504,U1057,2024-09-03,12617.87,INR,Amazon,Food,Net Banking,Success
+TXN100505,U1023,2024-03-09,46456.11,INR,Netflix,Subscription,Debit Card,Pending
+TXN100506,U1039,2024-06-12,7085.95,INR,Netflix,Subscription,Debit Card,Success
+TXN100507,U1025,2024-02-10,47593.64,INR,Swiggy,Shopping,Credit Card,Success
+TXN100508,U1041,2024-07-07,35852.2,INR,Spotify,Shopping,Net Banking,Failed
+TXN100509,U1014,2024-12-15,38852.28,INR,Amazon,Entertainment,Credit Card,Failed
+TXN100510,U1008,2024-05-30,12347.76,INR,Flipkart,Shopping,Wallet,Success
+TXN100511,U1094,2024-03-11,43126.44,INR,Flipkart,Shopping,Debit Card,Pending
+TXN100512,U1009,2024-07-22,41370.3,INR,Uber,Subscription,Net Banking,Pending
+TXN100513,U1080,2024-03-09,7244.64,INR,Spotify,Shopping,UPI,Failed
+TXN100514,U1063,2024-01-16,46289.11,INR,Swiggy,Subscription,UPI,Success
+TXN100515,U1096,2024-05-25,2473.34,INR,Uber,Subscription,Net Banking,Pending
+TXN100516,U1058,2024-03-22,40389.68,INR,Spotify,Entertainment,Wallet,Success
+TXN100517,U1090,2024-01-23,42062.94,INR,Zomato,Food,Net Banking,Failed
+TXN100518,U1056,2024-01-23,2257.04,INR,Spotify,Food,Credit Card,Failed
+TXN100519,U1005,2024-12-01,11898.51,INR,Swiggy,Entertainment,Net Banking,Pending
+TXN100520,U1060,2024-10-18,6516.73,INR,Flipkart,Entertainment,Wallet,Pending
+TXN100521,U1014,2024-04-29,22517.21,INR,Flipkart,Food,Net Banking,Failed
+TXN100522,U1021,2024-05-28,28296.36,INR,Flipkart,Travel,Wallet,Success
+TXN100523,U1074,2024-08-07,43632.59,INR,Swiggy,Shopping,Wallet,Failed
+TXN100524,U1005,2024-08-29,40508.61,INR,Flipkart,Entertainment,Net Banking,Success
+TXN100525,U1079,2024-08-17,44089.09,INR,Netflix,Subscription,Debit Card,Pending
+TXN100526,U1011,2024-05-17,10531.99,INR,Swiggy,Entertainment,Debit Card,Failed
+TXN100527,U1039,2024-12-18,35525.75,INR,Flipkart,Travel,Net Banking,Failed
+TXN100528,U1055,2024-10-12,38317.52,INR,Spotify,Entertainment,Debit Card,Success
+TXN100529,U1019,2024-04-05,32398.14,INR,Zomato,Food,Credit Card,Failed
+TXN100530,U1012,2024-03-15,143.53,INR,Swiggy,Shopping,UPI,Pending
+TXN100531,U1100,2024-11-30,18098.46,INR,Amazon,Entertainment,Net Banking,Success
+TXN100532,U1020,2024-10-21,33462.74,INR,Flipkart,Travel,Debit Card,Pending
+TXN100533,U1086,2024-05-10,25911.02,INR,Zomato,Entertainment,Net Banking,Pending
+TXN100534,U1050,2024-08-18,9784.67,INR,Netflix,Travel,Wallet,Success
+TXN100535,U1041,2024-08-15,35115.99,INR,Swiggy,Entertainment,Debit Card,Failed
+TXN100536,U1059,2024-02-22,10305.44,INR,Uber,Food,Wallet,Failed
+TXN100537,U1056,2024-05-24,36907.9,INR,Netflix,Shopping,Debit Card,Success
+TXN100538,U1097,2024-05-19,19755.69,INR,Swiggy,Entertainment,Net Banking,Failed
+TXN100539,U1011,2024-06-30,14644.85,INR,Spotify,Food,Wallet,Pending
+TXN100540,U1055,2024-09-04,3017.11,INR,Amazon,Subscription,UPI,Failed
+TXN100541,U1017,2024-05-27,19578.05,INR,Zomato,Subscription,UPI,Success
+TXN100542,U1045,2024-11-22,6932.38,INR,Zomato,Entertainment,Debit Card,Failed
+TXN100543,U1055,2024-05-20,10183.92,INR,Zomato,Subscription,Debit Card,Failed
+TXN100544,U1025,2024-01-20,6844.94,INR,Zomato,Shopping,UPI,Failed
+TXN100545,U1010,2024-11-12,10885.49,INR,Uber,Subscription,Debit Card,Success
+TXN100546,U1051,2024-03-03,37066.25,INR,Flipkart,Shopping,Debit Card,Success
+TXN100547,U1052,2024-07-14,37833.42,INR,Netflix,Entertainment,Credit Card,Pending
+TXN100548,U1069,2024-02-27,13928.1,INR,Netflix,Shopping,Wallet,Success
+TXN100549,U1082,2024-08-16,37386.7,INR,Spotify,Entertainment,Wallet,Pending
+TXN100550,U1003,2024-01-08,24966.17,INR,Netflix,Subscription,Net Banking,Success
+TXN100551,U1009,2024-03-12,23752.13,INR,Netflix,Entertainment,Debit Card,Success
+TXN100552,U1097,2024-07-15,22330.06,INR,Amazon,Food,UPI,Success
+TXN100553,U1057,2024-11-27,30267.57,INR,Amazon,Travel,Credit Card,Failed
+TXN100554,U1080,2024-03-16,9827.31,INR,Swiggy,Travel,Wallet,Failed
+TXN100555,U1002,2024-12-04,46915.09,INR,Flipkart,Travel,Debit Card,Success
+TXN100556,U1043,2024-07-22,46766.69,INR,Amazon,Travel,Debit Card,Pending
+TXN100557,U1064,2024-09-06,650.66,INR,Uber,Entertainment,Net Banking,Failed
+TXN100558,U1032,2024-07-12,170.69,INR,Swiggy,Food,Net Banking,Success
+TXN100559,U1049,2024-07-18,7705.82,INR,Swiggy,Travel,Credit Card,Failed
+TXN100560,U1027,2024-04-13,49156.27,INR,Amazon,Subscription,Debit Card,Pending
+TXN100561,U1077,2024-06-18,22186.55,INR,Zomato,Food,Credit Card,Pending
+TXN100562,U1055,2024-12-05,40321.44,INR,Netflix,Food,UPI,Pending
+TXN100563,U1039,2024-12-04,39623.94,INR,Spotify,Subscription,UPI,Pending
+TXN100564,U1058,2024-07-24,35046.68,INR,Uber,Entertainment,UPI,Failed
+TXN100565,U1083,2024-05-03,3439.87,INR,Flipkart,Entertainment,UPI,Failed
+TXN100566,U1050,2024-06-04,38426.46,INR,Swiggy,Shopping,Debit Card,Pending
+TXN100567,U1093,2024-02-21,19407.68,INR,Flipkart,Entertainment,Wallet,Pending
+TXN100568,U1016,2024-03-20,40872.25,INR,Amazon,Entertainment,Net Banking,Success
+TXN100569,U1054,2024-06-01,10936.92,INR,Netflix,Food,Credit Card,Failed
+TXN100570,U1077,2024-12-01,10875.24,INR,Flipkart,Shopping,Credit Card,Success
+TXN100571,U1095,2024-01-28,12331.72,INR,Uber,Subscription,Wallet,Success
+TXN100572,U1080,2024-06-08,8483.69,INR,Uber,Food,Wallet,Pending
+TXN100573,U1000,2024-12-13,24880.85,INR,Spotify,Travel,UPI,Success
+TXN100574,U1092,2024-02-17,15014.97,INR,Uber,Travel,Credit Card,Failed
+TXN100575,U1074,2024-05-30,7470.18,INR,Zomato,Entertainment,Debit Card,Success
+TXN100576,U1075,2024-08-14,22579.13,INR,Swiggy,Subscription,Credit Card,Success
+TXN100577,U1096,2024-12-20,24622.85,INR,Swiggy,Entertainment,Debit Card,Pending
+TXN100578,U1080,2024-01-03,6748.66,INR,Flipkart,Food,Credit Card,Failed
+TXN100579,U1009,2024-06-26,31162.42,INR,Zomato,Shopping,UPI,Failed
+TXN100580,U1049,2024-06-01,35561.06,INR,Swiggy,Travel,UPI,Failed
+TXN100581,U1046,2024-11-06,41130.13,INR,Flipkart,Shopping,Wallet,Failed
+TXN100582,U1029,2024-06-15,15123.71,INR,Swiggy,Subscription,Wallet,Pending
+TXN100583,U1074,2024-03-08,41747.6,INR,Swiggy,Food,Wallet,Failed
+TXN100584,U1034,2024-11-14,28890.14,INR,Uber,Entertainment,Wallet,Pending
+TXN100585,U1071,2024-02-16,20147.13,INR,Spotify,Subscription,Wallet,Pending
+TXN100586,U1013,2024-10-05,22412.58,INR,Netflix,Subscription,Net Banking,Success
+TXN100587,U1078,2024-07-12,10542.87,INR,Spotify,Travel,UPI,Failed
+TXN100588,U1067,2024-05-15,962.34,INR,Netflix,Subscription,UPI,Failed
+TXN100589,U1055,2024-03-25,33064.75,INR,Amazon,Entertainment,Wallet,Success
+TXN100590,U1100,2024-03-17,46268.62,INR,Uber,Food,Debit Card,Pending
+TXN100591,U1033,2024-01-15,12860.25,INR,Amazon,Subscription,Credit Card,Success
+TXN100592,U1053,2024-03-09,42591.46,INR,Uber,Shopping,Wallet,Success
+TXN100593,U1070,2024-01-04,23512.24,INR,Uber,Subscription,Wallet,Pending
+TXN100594,U1093,2024-02-09,476.57,INR,Zomato,Subscription,UPI,Pending
+TXN100595,U1054,2024-09-30,13315.99,INR,Uber,Travel,UPI,Pending
+TXN100596,U1023,2024-08-24,25900.67,INR,Flipkart,Travel,Debit Card,Pending
+TXN100597,U1024,2024-01-12,27902.44,INR,Amazon,Subscription,Wallet,Pending
+TXN100598,U1028,2024-04-25,24496.36,INR,Swiggy,Food,UPI,Failed
+TXN100599,U1010,2024-04-14,385.77,INR,Uber,Shopping,Wallet,Pending
+TXN100600,U1100,2024-01-15,32068.3,INR,Amazon,Food,Wallet,Failed
+TXN100601,U1028,2024-06-26,36031.21,INR,Uber,Travel,Credit Card,Failed
+TXN100602,U1049,2024-08-03,572.33,INR,Flipkart,Entertainment,Credit Card,Pending
+TXN100603,U1083,2024-09-27,6514.4,INR,Spotify,Food,UPI,Success
+TXN100604,U1094,2024-04-24,44777.65,INR,Netflix,Food,Debit Card,Pending
+TXN100605,U1005,2024-12-20,24827.8,INR,Amazon,Shopping,Net Banking,Pending
+TXN100606,U1070,2024-07-30,23094.53,INR,Swiggy,Subscription,UPI,Pending
+TXN100607,U1095,2024-02-03,12173.58,INR,Spotify,Travel,Net Banking,Failed
+TXN100608,U1040,2024-06-19,2913.34,INR,Flipkart,Shopping,UPI,Failed
+TXN100609,U1090,2024-11-11,48791.22,INR,Spotify,Shopping,Wallet,Success
+TXN100610,U1062,2024-04-10,9875.73,INR,Swiggy,Food,Wallet,Failed
+TXN100611,U1056,2024-05-30,26821.23,INR,Netflix,Shopping,Credit Card,Pending
+TXN100612,U1020,2024-11-16,35387.32,INR,Netflix,Travel,Net Banking,Failed
+TXN100613,U1031,2024-05-21,46555.5,INR,Netflix,Shopping,Net Banking,Failed
+TXN100614,U1056,2024-02-25,31395.75,INR,Flipkart,Travel,Wallet,Pending
+TXN100615,U1057,2024-05-05,31830.67,INR,Swiggy,Travel,UPI,Failed
+TXN100616,U1060,2024-07-07,4746.86,INR,Uber,Entertainment,Debit Card,Failed
+TXN100617,U1089,2024-12-10,29822.37,INR,Amazon,Food,Net Banking,Pending
+TXN100618,U1039,2024-06-11,10073.75,INR,Spotify,Shopping,Credit Card,Pending
+TXN100619,U1075,2024-02-07,47317.38,INR,Zomato,Travel,Credit Card,Success
+TXN100620,U1072,2024-05-08,2639.4,INR,Netflix,Shopping,Net Banking,Pending
+TXN100621,U1002,2024-04-06,4263.09,INR,Uber,Subscription,Wallet,Failed
+TXN100622,U1086,2024-12-30,28266.1,INR,Zomato,Subscription,Credit Card,Success
+TXN100623,U1049,2024-08-31,18881.0,INR,Swiggy,Entertainment,Wallet,Success
+TXN100624,U1059,2024-06-14,2536.41,INR,Amazon,Shopping,UPI,Failed
+TXN100625,U1065,2024-10-30,42504.02,INR,Flipkart,Food,Credit Card,Pending
+TXN100626,U1005,2024-09-08,13743.39,INR,Uber,Shopping,Debit Card,Failed
+TXN100627,U1072,2024-07-01,33777.7,INR,Amazon,Food,Credit Card,Success
+TXN100628,U1053,2024-11-09,14654.88,INR,Spotify,Shopping,Net Banking,Success
+TXN100629,U1011,2024-06-14,41328.47,INR,Zomato,Shopping,Debit Card,Success
+TXN100630,U1054,2024-05-10,24469.52,INR,Swiggy,Travel,Credit Card,Pending
+TXN100631,U1091,2024-06-06,34902.45,INR,Uber,Food,Debit Card,Pending
+TXN100632,U1002,2024-11-14,42663.15,INR,Spotify,Entertainment,Wallet,Failed
+TXN100633,U1034,2024-07-17,16207.81,INR,Spotify,Entertainment,Net Banking,Failed
+TXN100634,U1065,2024-08-21,28034.81,INR,Uber,Travel,Wallet,Failed
+TXN100635,U1039,2024-04-20,44550.26,INR,Netflix,Entertainment,Net Banking,Success
+TXN100636,U1038,2024-08-10,28228.62,INR,Amazon,Entertainment,UPI,Failed
+TXN100637,U1058,2024-12-17,49337.86,INR,Netflix,Entertainment,Debit Card,Failed
+TXN100638,U1045,2024-09-26,10846.52,INR,Uber,Food,Credit Card,Failed
+TXN100639,U1007,2024-01-07,30536.64,INR,Amazon,Travel,UPI,Pending
+TXN100640,U1065,2024-11-29,23491.87,INR,Spotify,Travel,Debit Card,Success
+TXN100641,U1066,2024-10-24,16542.71,INR,Amazon,Entertainment,UPI,Success
+TXN100642,U1048,2024-06-17,19624.08,INR,Swiggy,Entertainment,Wallet,Failed
+TXN100643,U1059,2024-02-03,9028.91,INR,Amazon,Shopping,Wallet,Success
+TXN100644,U1062,2024-06-07,16305.78,INR,Spotify,Entertainment,Debit Card,Success
+TXN100645,U1052,2024-01-14,35940.18,INR,Swiggy,Food,Net Banking,Success
+TXN100646,U1016,2024-09-22,13997.15,INR,Uber,Entertainment,Debit Card,Success
+TXN100647,U1069,2024-03-14,11122.62,INR,Amazon,Entertainment,Debit Card,Failed
+TXN100648,U1094,2024-10-17,34155.44,INR,Swiggy,Entertainment,Debit Card,Pending
+TXN100649,U1095,2024-10-08,33833.86,INR,Netflix,Subscription,Debit Card,Success
+TXN100650,U1078,2024-03-24,11487.88,INR,Spotify,Entertainment,UPI,Success
+TXN100651,U1078,2024-07-01,34311.52,INR,Zomato,Shopping,Net Banking,Success
+TXN100652,U1003,2024-05-15,8693.19,INR,Zomato,Travel,Credit Card,Failed
+TXN100653,U1041,2024-07-12,30116.11,INR,Zomato,Entertainment,Credit Card,Pending
+TXN100654,U1047,2024-11-22,27199.54,INR,Uber,Entertainment,Debit Card,Failed
+TXN100655,U1031,2024-01-05,44220.59,INR,Flipkart,Food,Wallet,Pending
+TXN100656,U1012,2024-04-11,12905.32,INR,Spotify,Travel,Credit Card,Failed
+TXN100657,U1056,2024-03-11,11031.44,INR,Uber,Subscription,Credit Card,Failed
+TXN100658,U1091,2024-09-14,30066.43,INR,Netflix,Travel,UPI,Success
+TXN100659,U1004,2024-08-21,10402.66,INR,Spotify,Shopping,Debit Card,Success
+TXN100660,U1030,2024-04-20,28838.58,INR,Flipkart,Shopping,Debit Card,Failed
+TXN100661,U1064,2024-10-23,25519.26,INR,Zomato,Travel,Net Banking,Failed
+TXN100662,U1094,2024-02-11,49127.07,INR,Uber,Entertainment,Net Banking,Failed
+TXN100663,U1000,2024-12-19,21724.14,INR,Uber,Shopping,Wallet,Pending
+TXN100664,U1079,2024-10-18,14402.72,INR,Swiggy,Travel,Debit Card,Pending
+TXN100665,U1022,2024-04-28,15136.94,INR,Amazon,Shopping,UPI,Success
+TXN100666,U1012,2024-11-25,28132.5,INR,Spotify,Entertainment,Credit Card,Pending
+TXN100667,U1094,2024-09-12,37887.86,INR,Flipkart,Shopping,Net Banking,Pending
+TXN100668,U1074,2024-01-04,8413.47,INR,Flipkart,Travel,Debit Card,Pending
+TXN100669,U1061,2024-01-22,19377.58,INR,Spotify,Travel,Net Banking,Pending
+TXN100670,U1037,2024-07-01,33506.65,INR,Uber,Food,Net Banking,Failed
+TXN100671,U1098,2024-02-03,28961.29,INR,Swiggy,Travel,Credit Card,Failed
+TXN100672,U1061,2024-04-10,2077.72,INR,Amazon,Entertainment,UPI,Failed
+TXN100673,U1082,2024-08-09,49729.89,INR,Spotify,Entertainment,Credit Card,Success
+TXN100674,U1093,2024-07-22,19911.89,INR,Spotify,Travel,Wallet,Pending
+TXN100675,U1017,2024-12-15,43067.01,INR,Amazon,Entertainment,Net Banking,Pending
+TXN100676,U1007,2024-12-13,1173.25,INR,Amazon,Entertainment,Net Banking,Success
+TXN100677,U1040,2024-07-01,48636.58,INR,Amazon,Subscription,Credit Card,Success
+TXN100678,U1090,2024-03-08,26081.87,INR,Netflix,Travel,Debit Card,Failed
+TXN100679,U1069,2024-10-21,42938.36,INR,Spotify,Entertainment,UPI,Failed
+TXN100680,U1083,2024-08-09,48623.88,INR,Swiggy,Shopping,Wallet,Pending
+TXN100681,U1065,2024-05-06,747.23,INR,Netflix,Entertainment,UPI,Pending
+TXN100682,U1039,2024-09-16,10054.57,INR,Swiggy,Food,Wallet,Pending
+TXN100683,U1019,2024-10-25,32648.67,INR,Spotify,Food,Wallet,Pending
+TXN100684,U1092,2024-02-12,6339.04,INR,Uber,Subscription,UPI,Failed
+TXN100685,U1082,2024-03-16,27273.7,INR,Flipkart,Food,Debit Card,Success
+TXN100686,U1069,2024-04-02,22247.24,INR,Spotify,Food,Credit Card,Pending
+TXN100687,U1002,2024-08-07,12348.37,INR,Swiggy,Food,Credit Card,Pending
+TXN100688,U1023,2024-08-09,38056.76,INR,Netflix,Subscription,Debit Card,Failed
+TXN100689,U1023,2024-10-17,29635.45,INR,Uber,Subscription,Credit Card,Failed
+TXN100690,U1036,2024-10-27,22448.54,INR,Zomato,Food,Wallet,Failed
+TXN100691,U1009,2024-03-02,10113.9,INR,Netflix,Food,Debit Card,Failed
+TXN100692,U1018,2024-04-22,2723.81,INR,Netflix,Food,Credit Card,Failed
+TXN100693,U1026,2024-07-04,39881.67,INR,Flipkart,Shopping,Debit Card,Success
+TXN100694,U1011,2024-07-22,2266.48,INR,Flipkart,Food,Credit Card,Success
+TXN100695,U1088,2024-12-13,8439.56,INR,Spotify,Subscription,Credit Card,Pending
+TXN100696,U1012,2024-08-26,30590.0,INR,Netflix,Food,Debit Card,Success
+TXN100697,U1050,2024-02-29,41869.23,INR,Flipkart,Entertainment,Credit Card,Failed
+TXN100698,U1080,2024-06-28,5147.38,INR,Swiggy,Food,Net Banking,Pending
+TXN100699,U1044,2024-01-05,8646.75,INR,Spotify,Food,Credit Card,Failed
+TXN100700,U1055,2024-09-15,43757.61,INR,Zomato,Food,Wallet,Failed
+TXN100701,U1028,2024-06-03,48873.23,INR,Spotify,Shopping,Wallet,Success
+TXN100702,U1063,2024-11-03,42752.7,INR,Swiggy,Travel,Wallet,Pending
+TXN100703,U1087,2024-07-06,9003.7,INR,Uber,Entertainment,Wallet,Success
+TXN100704,U1080,2024-12-15,13172.23,INR,Spotify,Food,Wallet,Success
+TXN100705,U1033,2024-05-28,7217.74,INR,Uber,Food,Wallet,Pending
+TXN100706,U1045,2024-03-13,10960.43,INR,Uber,Entertainment,Credit Card,Failed
+TXN100707,U1012,2024-09-08,48060.3,INR,Uber,Shopping,Net Banking,Success
+TXN100708,U1078,2024-03-29,38962.48,INR,Uber,Food,Credit Card,Pending
+TXN100709,U1043,2024-02-24,49052.64,INR,Amazon,Subscription,Debit Card,Failed
+TXN100710,U1000,2024-06-05,48969.68,INR,Amazon,Entertainment,Credit Card,Failed
+TXN100711,U1021,2024-11-02,17383.4,INR,Spotify,Travel,Debit Card,Pending
+TXN100712,U1048,2024-08-15,33686.34,INR,Uber,Food,Credit Card,Pending
+TXN100713,U1078,2024-09-24,8511.64,INR,Zomato,Shopping,Wallet,Failed
+TXN100714,U1075,2024-10-02,43207.19,INR,Amazon,Food,UPI,Success
+TXN100715,U1031,2024-02-12,37529.94,INR,Flipkart,Subscription,Net Banking,Failed
+TXN100716,U1055,2024-03-18,15967.67,INR,Amazon,Subscription,Wallet,Failed
+TXN100717,U1068,2024-12-07,24427.04,INR,Uber,Subscription,Net Banking,Pending
+TXN100718,U1097,2024-10-12,21506.47,INR,Flipkart,Entertainment,Net Banking,Success
+TXN100719,U1059,2024-03-20,2748.47,INR,Flipkart,Travel,Net Banking,Success
+TXN100720,U1058,2024-10-24,45821.79,INR,Swiggy,Shopping,Credit Card,Failed
+TXN100721,U1018,2024-06-17,14051.71,INR,Swiggy,Travel,UPI,Success
+TXN100722,U1059,2024-02-10,35564.02,INR,Amazon,Entertainment,Net Banking,Pending
+TXN100723,U1004,2024-05-13,32919.97,INR,Netflix,Entertainment,Net Banking,Failed
+TXN100724,U1095,2024-01-08,35730.14,INR,Flipkart,Entertainment,Net Banking,Pending
+TXN100725,U1075,2024-01-15,36690.14,INR,Uber,Food,Net Banking,Success
+TXN100726,U1058,2024-10-06,6497.89,INR,Zomato,Food,Credit Card,Pending
+TXN100727,U1004,2024-09-12,2801.77,INR,Netflix,Food,Credit Card,Pending
+TXN100728,U1008,2024-07-30,49309.01,INR,Uber,Travel,Credit Card,Failed
+TXN100729,U1038,2024-11-23,35992.78,INR,Netflix,Travel,Credit Card,Success
+TXN100730,U1043,2024-07-16,33040.92,INR,Spotify,Travel,Net Banking,Success
+TXN100731,U1066,2024-03-30,11081.71,INR,Spotify,Shopping,Credit Card,Failed
+TXN100732,U1069,2024-11-16,42554.43,INR,Uber,Subscription,Debit Card,Pending
+TXN100733,U1010,2024-12-10,2106.68,INR,Netflix,Entertainment,Wallet,Failed
+TXN100734,U1060,2024-12-24,2993.39,INR,Netflix,Food,Wallet,Success
+TXN100735,U1007,2024-02-20,8670.66,INR,Uber,Food,UPI,Pending
+TXN100736,U1006,2024-11-20,16327.19,INR,Swiggy,Entertainment,Wallet,Success
+TXN100737,U1013,2024-11-07,10934.28,INR,Spotify,Travel,UPI,Pending
+TXN100738,U1039,2024-04-18,1713.33,INR,Flipkart,Entertainment,Net Banking,Failed
+TXN100739,U1020,2024-01-03,9748.41,INR,Netflix,Food,Wallet,Success
+TXN100740,U1036,2024-05-01,40843.59,INR,Amazon,Travel,Wallet,Failed
+TXN100741,U1037,2024-07-31,16937.69,INR,Uber,Travel,UPI,Success
+TXN100742,U1092,2024-09-10,48531.92,INR,Swiggy,Shopping,Credit Card,Failed
+TXN100743,U1020,2024-03-29,6911.68,INR,Amazon,Shopping,UPI,Success
+TXN100744,U1056,2024-08-07,17006.9,INR,Amazon,Shopping,Credit Card,Success
+TXN100745,U1045,2024-04-16,12412.2,INR,Flipkart,Shopping,Net Banking,Success
+TXN100746,U1006,2024-12-24,30777.34,INR,Swiggy,Food,UPI,Success
+TXN100747,U1060,2024-03-31,44293.9,INR,Swiggy,Travel,UPI,Success
+TXN100748,U1059,2024-09-13,13356.02,INR,Uber,Food,Wallet,Pending
+TXN100749,U1059,2024-02-10,12442.68,INR,Spotify,Entertainment,Debit Card,Failed
+TXN100750,U1075,2024-02-23,13471.72,INR,Flipkart,Entertainment,Credit Card,Pending
+TXN100751,U1059,2024-10-03,37050.53,INR,Netflix,Subscription,Net Banking,Pending
+TXN100752,U1087,2024-10-15,38614.33,INR,Uber,Food,Net Banking,Success
+TXN100753,U1031,2024-05-18,39783.07,INR,Amazon,Travel,Debit Card,Pending
+TXN100754,U1057,2024-09-20,20659.56,INR,Netflix,Food,Wallet,Success
+TXN100755,U1036,2024-12-20,47240.02,INR,Uber,Entertainment,Wallet,Failed
+TXN100756,U1022,2024-09-22,49644.14,INR,Zomato,Shopping,Credit Card,Success
+TXN100757,U1081,2024-01-31,40579.17,INR,Swiggy,Travel,UPI,Success
+TXN100758,U1082,2024-03-05,4048.36,INR,Uber,Food,Wallet,Success
+TXN100759,U1043,2024-08-11,31460.32,INR,Netflix,Shopping,Debit Card,Failed
+TXN100760,U1009,2024-05-18,25070.54,INR,Swiggy,Entertainment,Net Banking,Pending
+TXN100761,U1035,2024-12-03,6276.24,INR,Swiggy,Entertainment,UPI,Pending
+TXN100762,U1041,2024-11-17,39290.11,INR,Amazon,Travel,Net Banking,Success
+TXN100763,U1049,2024-03-02,19773.97,INR,Netflix,Shopping,Debit Card,Success
+TXN100764,U1088,2024-07-13,21607.58,INR,Zomato,Food,Net Banking,Success
+TXN100765,U1088,2024-05-04,13065.05,INR,Flipkart,Shopping,Credit Card,Success
+TXN100766,U1068,2024-07-22,33394.27,INR,Netflix,Entertainment,Wallet,Success
+TXN100767,U1000,2024-03-23,33250.77,INR,Flipkart,Subscription,Net Banking,Success
+TXN100768,U1054,2024-12-02,4064.66,INR,Uber,Travel,UPI,Pending
+TXN100769,U1035,2024-01-25,31190.58,INR,Amazon,Shopping,UPI,Failed
+TXN100770,U1034,2024-01-22,40023.92,INR,Flipkart,Travel,Net Banking,Success
+TXN100771,U1098,2024-05-04,12979.83,INR,Netflix,Subscription,Credit Card,Failed
+TXN100772,U1082,2024-09-22,34033.69,INR,Swiggy,Shopping,Net Banking,Success
+TXN100773,U1017,2024-03-06,13457.93,INR,Flipkart,Shopping,Credit Card,Success
+TXN100774,U1092,2024-04-04,37650.02,INR,Amazon,Travel,UPI,Failed
+TXN100775,U1098,2024-04-24,8775.97,INR,Amazon,Shopping,Net Banking,Pending
+TXN100776,U1021,2024-06-06,41341.96,INR,Swiggy,Food,Credit Card,Pending
+TXN100777,U1002,2024-09-29,31447.45,INR,Zomato,Travel,Debit Card,Failed
+TXN100778,U1097,2024-11-07,406.56,INR,Swiggy,Travel,Net Banking,Success
+TXN100779,U1080,2024-07-06,9133.94,INR,Zomato,Shopping,Net Banking,Failed
+TXN100780,U1089,2024-05-09,19458.73,INR,Swiggy,Subscription,Debit Card,Failed
+TXN100781,U1019,2024-07-06,24081.71,INR,Uber,Food,UPI,Failed
+TXN100782,U1098,2024-05-07,29020.32,INR,Flipkart,Entertainment,Credit Card,Failed
+TXN100783,U1028,2024-01-26,46666.41,INR,Flipkart,Shopping,Wallet,Success
+TXN100784,U1068,2024-04-11,12640.57,INR,Swiggy,Entertainment,Credit Card,Failed
+TXN100785,U1007,2024-02-06,26143.49,INR,Amazon,Subscription,UPI,Success
+TXN100786,U1039,2024-07-26,12669.71,INR,Uber,Entertainment,Credit Card,Pending
+TXN100787,U1000,2024-05-24,7554.18,INR,Zomato,Entertainment,UPI,Failed
+TXN100788,U1086,2024-01-23,24645.66,INR,Netflix,Entertainment,Debit Card,Success
+TXN100789,U1042,2024-10-27,11019.84,INR,Uber,Food,Net Banking,Failed
+TXN100790,U1049,2024-10-12,35353.09,INR,Zomato,Food,Credit Card,Pending
+TXN100791,U1057,2024-07-08,29182.92,INR,Netflix,Subscription,Wallet,Failed
+TXN100792,U1094,2024-02-03,17523.69,INR,Flipkart,Subscription,UPI,Failed
+TXN100793,U1066,2024-03-12,23339.68,INR,Flipkart,Subscription,Wallet,Failed
+TXN100794,U1053,2024-01-01,481.58,INR,Uber,Subscription,Debit Card,Failed
+TXN100795,U1077,2024-06-06,43937.49,INR,Uber,Subscription,Net Banking,Success
+TXN100796,U1071,2024-12-19,18101.99,INR,Amazon,Shopping,Net Banking,Failed
+TXN100797,U1088,2024-08-17,30204.96,INR,Netflix,Food,Debit Card,Failed
+TXN100798,U1014,2024-05-12,25353.06,INR,Netflix,Shopping,Debit Card,Success
+TXN100799,U1041,2024-07-14,38817.53,INR,Swiggy,Subscription,Wallet,Success
+TXN100800,U1043,2024-04-25,24327.59,INR,Swiggy,Subscription,Debit Card,Pending
+TXN100801,U1064,2024-05-15,18441.71,INR,Spotify,Shopping,Net Banking,Success
+TXN100802,U1081,2024-11-07,2576.27,INR,Zomato,Shopping,Wallet,Success
+TXN100803,U1099,2024-08-12,29784.08,INR,Zomato,Subscription,UPI,Success
+TXN100804,U1078,2024-12-13,41330.27,INR,Amazon,Food,Credit Card,Failed
+TXN100805,U1100,2024-11-07,17127.11,INR,Netflix,Food,Credit Card,Pending
+TXN100806,U1095,2024-03-20,8442.27,INR,Amazon,Subscription,Debit Card,Pending
+TXN100807,U1056,2024-03-24,30616.71,INR,Netflix,Subscription,Debit Card,Failed
+TXN100808,U1098,2024-08-14,40403.24,INR,Uber,Shopping,Net Banking,Pending
+TXN100809,U1070,2024-10-29,31027.71,INR,Zomato,Food,Net Banking,Pending
+TXN100810,U1040,2024-03-08,27333.54,INR,Zomato,Entertainment,Credit Card,Success
+TXN100811,U1044,2024-10-29,41158.32,INR,Uber,Subscription,Credit Card,Pending
+TXN100812,U1045,2024-06-16,32526.51,INR,Spotify,Travel,Net Banking,Failed
+TXN100813,U1061,2024-01-16,2474.85,INR,Netflix,Subscription,UPI,Success
+TXN100814,U1056,2024-10-18,48404.52,INR,Amazon,Food,Debit Card,Success
+TXN100815,U1072,2024-04-24,48867.24,INR,Amazon,Travel,UPI,Success
+TXN100816,U1018,2024-03-10,39781.43,INR,Flipkart,Travel,Wallet,Failed
+TXN100817,U1008,2024-10-22,38754.59,INR,Amazon,Subscription,UPI,Pending
+TXN100818,U1080,2024-08-01,5522.54,INR,Zomato,Entertainment,Net Banking,Pending
+TXN100819,U1074,2024-08-07,14277.2,INR,Netflix,Subscription,Credit Card,Pending
+TXN100820,U1029,2024-10-11,41617.13,INR,Flipkart,Entertainment,Wallet,Failed
+TXN100821,U1094,2024-10-31,41620.55,INR,Uber,Subscription,UPI,Failed
+TXN100822,U1065,2024-05-08,29486.02,INR,Spotify,Shopping,Credit Card,Success
+TXN100823,U1027,2024-05-09,11027.21,INR,Zomato,Travel,Credit Card,Success
+TXN100824,U1016,2024-10-22,1280.33,INR,Swiggy,Subscription,UPI,Failed
+TXN100825,U1087,2024-08-27,31651.77,INR,Swiggy,Food,Debit Card,Success
+TXN100826,U1007,2024-12-27,169.11,INR,Amazon,Shopping,Net Banking,Failed
+TXN100827,U1051,2024-08-20,27733.59,INR,Uber,Entertainment,Net Banking,Pending
+TXN100828,U1072,2024-03-28,10899.85,INR,Spotify,Subscription,UPI,Pending
+TXN100829,U1076,2024-06-01,6813.97,INR,Spotify,Subscription,UPI,Success
+TXN100830,U1074,2024-11-24,4442.9,INR,Flipkart,Food,UPI,Pending
+TXN100831,U1066,2024-01-30,22654.13,INR,Zomato,Food,Wallet,Pending
+TXN100832,U1064,2024-06-15,7133.8,INR,Uber,Subscription,Debit Card,Failed
+TXN100833,U1044,2024-07-23,45323.86,INR,Swiggy,Entertainment,UPI,Pending
+TXN100834,U1085,2024-06-14,23220.38,INR,Spotify,Shopping,Wallet,Pending
+TXN100835,U1004,2024-05-22,41324.62,INR,Amazon,Travel,UPI,Failed
+TXN100836,U1067,2024-02-23,16299.3,INR,Uber,Entertainment,Debit Card,Pending
+TXN100837,U1059,2024-08-20,46624.21,INR,Amazon,Shopping,Net Banking,Success
+TXN100838,U1081,2024-02-26,28192.72,INR,Amazon,Travel,Net Banking,Failed
+TXN100839,U1061,2024-10-27,41125.9,INR,Uber,Entertainment,Debit Card,Failed
+TXN100840,U1062,2024-07-10,4160.17,INR,Uber,Food,Net Banking,Failed
+TXN100841,U1006,2024-07-27,20514.66,INR,Flipkart,Food,Debit Card,Failed
+TXN100842,U1086,2024-08-04,36528.03,INR,Swiggy,Subscription,Credit Card,Success
+TXN100843,U1093,2024-08-16,17177.05,INR,Zomato,Entertainment,UPI,Failed
+TXN100844,U1099,2024-07-26,49371.59,INR,Uber,Entertainment,Debit Card,Pending
+TXN100845,U1043,2024-12-09,28495.09,INR,Zomato,Entertainment,Wallet,Failed
+TXN100846,U1013,2024-06-23,18665.95,INR,Netflix,Entertainment,Wallet,Pending
+TXN100847,U1073,2024-07-15,29203.82,INR,Uber,Shopping,Wallet,Success
+TXN100848,U1029,2024-07-18,43823.52,INR,Amazon,Entertainment,UPI,Success
+TXN100849,U1020,2024-12-29,39623.01,INR,Amazon,Travel,Debit Card,Failed
+TXN100850,U1027,2024-10-02,4978.63,INR,Swiggy,Subscription,Debit Card,Pending
+TXN100851,U1083,2024-03-06,22865.08,INR,Zomato,Food,Net Banking,Success
+TXN100852,U1003,2024-03-23,13141.4,INR,Amazon,Travel,Credit Card,Success
+TXN100853,U1062,2024-04-12,45249.54,INR,Netflix,Travel,Debit Card,Failed
+TXN100854,U1035,2024-02-03,44200.28,INR,Spotify,Food,Net Banking,Failed
+TXN100855,U1095,2024-01-07,16686.6,INR,Flipkart,Shopping,Credit Card,Failed
+TXN100856,U1056,2024-09-12,6344.73,INR,Amazon,Food,Wallet,Success
+TXN100857,U1068,2024-04-07,16345.15,INR,Amazon,Entertainment,Credit Card,Success
+TXN100858,U1096,2024-01-21,4088.62,INR,Netflix,Travel,Wallet,Failed
+TXN100859,U1000,2024-07-24,29217.61,INR,Amazon,Entertainment,Net Banking,Failed
+TXN100860,U1036,2024-07-07,8898.24,INR,Zomato,Travel,Net Banking,Pending
+TXN100861,U1052,2024-08-19,21532.86,INR,Amazon,Shopping,Credit Card,Success
+TXN100862,U1041,2024-12-13,8357.57,INR,Zomato,Entertainment,Net Banking,Failed
+TXN100863,U1069,2024-04-17,17200.69,INR,Flipkart,Food,Wallet,Pending
+TXN100864,U1014,2024-05-16,29121.41,INR,Amazon,Shopping,Credit Card,Pending
+TXN100865,U1042,2024-11-24,10413.68,INR,Uber,Travel,UPI,Success
+TXN100866,U1052,2024-09-15,15167.51,INR,Zomato,Entertainment,Credit Card,Success
+TXN100867,U1090,2024-07-25,47262.96,INR,Amazon,Entertainment,Debit Card,Failed
+TXN100868,U1076,2024-12-08,49392.01,INR,Netflix,Food,Credit Card,Pending
+TXN100869,U1080,2024-05-25,27507.56,INR,Spotify,Shopping,Net Banking,Failed
+TXN100870,U1012,2024-11-06,5213.26,INR,Swiggy,Subscription,UPI,Failed
+TXN100871,U1070,2024-05-16,30609.89,INR,Flipkart,Travel,UPI,Pending
+TXN100872,U1010,2024-04-28,45289.55,INR,Spotify,Subscription,Credit Card,Pending
+TXN100873,U1058,2024-05-18,10242.87,INR,Amazon,Subscription,UPI,Failed
+TXN100874,U1035,2024-06-13,20576.07,INR,Spotify,Food,Debit Card,Pending
+TXN100875,U1006,2024-02-27,8139.3,INR,Zomato,Entertainment,Credit Card,Failed
+TXN100876,U1091,2024-08-30,10232.23,INR,Amazon,Entertainment,Net Banking,Failed
+TXN100877,U1070,2024-01-28,36835.42,INR,Flipkart,Food,Net Banking,Failed
+TXN100878,U1070,2024-02-17,46394.61,INR,Zomato,Entertainment,Wallet,Success
+TXN100879,U1016,2024-06-28,35977.11,INR,Amazon,Travel,Net Banking,Pending
+TXN100880,U1034,2024-01-19,12510.2,INR,Zomato,Travel,Wallet,Pending
+TXN100881,U1025,2024-01-30,14555.99,INR,Flipkart,Food,Net Banking,Pending
+TXN100882,U1055,2024-11-30,19590.8,INR,Amazon,Entertainment,Credit Card,Failed
+TXN100883,U1097,2024-03-23,33808.0,INR,Swiggy,Food,Credit Card,Success
+TXN100884,U1043,2024-08-04,21415.96,INR,Flipkart,Food,Net Banking,Pending
+TXN100885,U1043,2024-03-14,7295.67,INR,Uber,Travel,Net Banking,Pending
+TXN100886,U1045,2024-06-07,10755.87,INR,Uber,Travel,Credit Card,Success
+TXN100887,U1083,2024-04-25,33973.19,INR,Spotify,Subscription,Net Banking,Success
+TXN100888,U1028,2024-05-30,41563.18,INR,Uber,Shopping,Debit Card,Failed
+TXN100889,U1058,2024-06-28,38126.53,INR,Zomato,Entertainment,Net Banking,Pending
+TXN100890,U1042,2024-01-18,32972.72,INR,Flipkart,Travel,UPI,Failed
+TXN100891,U1052,2024-04-24,24228.23,INR,Swiggy,Shopping,Credit Card,Failed
+TXN100892,U1010,2024-07-14,31252.27,INR,Uber,Food,Net Banking,Failed
+TXN100893,U1081,2024-05-05,46743.96,INR,Netflix,Shopping,Credit Card,Success
+TXN100894,U1067,2024-09-01,32626.24,INR,Uber,Subscription,Net Banking,Failed
+TXN100895,U1055,2024-07-28,28809.15,INR,Zomato,Entertainment,Debit Card,Failed
+TXN100896,U1019,2024-06-13,41750.48,INR,Uber,Food,Net Banking,Success
+TXN100897,U1096,2024-07-03,19798.47,INR,Swiggy,Travel,Wallet,Failed
+TXN100898,U1083,2024-02-05,13713.78,INR,Amazon,Food,Net Banking,Failed
+TXN100899,U1008,2024-06-07,14416.49,INR,Spotify,Subscription,Credit Card,Success
+TXN100900,U1024,2024-02-08,15455.3,INR,Netflix,Travel,Wallet,Pending
+TXN100901,U1071,2024-02-09,45489.79,INR,Netflix,Entertainment,Credit Card,Failed
+TXN100902,U1048,2024-03-05,7824.8,INR,Spotify,Subscription,Net Banking,Pending
+TXN100903,U1027,2024-09-03,8228.56,INR,Swiggy,Entertainment,Net Banking,Failed
+TXN100904,U1035,2024-04-15,31389.82,INR,Amazon,Travel,Net Banking,Success
+TXN100905,U1062,2024-03-11,25008.63,INR,Amazon,Food,Debit Card,Failed
+TXN100906,U1083,2024-11-07,22841.08,INR,Netflix,Shopping,Wallet,Success
+TXN100907,U1014,2024-05-19,27738.36,INR,Spotify,Food,UPI,Pending
+TXN100908,U1030,2024-12-09,27540.54,INR,Amazon,Travel,Net Banking,Pending
+TXN100909,U1059,2024-07-21,22280.66,INR,Zomato,Shopping,Debit Card,Failed
+TXN100910,U1074,2024-03-11,13215.91,INR,Swiggy,Shopping,Debit Card,Pending
+TXN100911,U1043,2024-12-12,13626.87,INR,Amazon,Food,Debit Card,Failed
+TXN100912,U1000,2024-08-17,12764.48,INR,Flipkart,Shopping,Credit Card,Failed
+TXN100913,U1013,2024-09-11,18223.37,INR,Flipkart,Shopping,Credit Card,Success
+TXN100914,U1029,2024-08-12,31934.18,INR,Uber,Food,UPI,Pending
+TXN100915,U1075,2024-10-03,8013.29,INR,Netflix,Travel,Credit Card,Failed
+TXN100916,U1039,2024-03-28,41425.41,INR,Spotify,Entertainment,Credit Card,Success
+TXN100917,U1068,2024-09-11,40096.79,INR,Spotify,Food,Debit Card,Failed
+TXN100918,U1004,2024-04-09,30762.41,INR,Amazon,Food,Credit Card,Failed
+TXN100919,U1079,2024-03-26,39422.09,INR,Netflix,Travel,Debit Card,Pending
+TXN100920,U1066,2024-01-11,794.74,INR,Netflix,Food,Wallet,Success
+TXN100921,U1080,2024-06-08,25642.69,INR,Netflix,Travel,Debit Card,Success
+TXN100922,U1028,2024-11-06,18279.24,INR,Zomato,Food,Wallet,Pending
+TXN100923,U1057,2024-04-10,33206.16,INR,Zomato,Entertainment,UPI,Failed
+TXN100924,U1072,2024-04-08,4601.06,INR,Netflix,Shopping,Net Banking,Pending
+TXN100925,U1046,2024-06-03,895.3,INR,Zomato,Subscription,Credit Card,Pending
+TXN100926,U1069,2024-01-01,252.21,INR,Amazon,Subscription,Credit Card,Failed
+TXN100927,U1030,2024-03-30,17153.37,INR,Swiggy,Subscription,Debit Card,Failed
+TXN100928,U1034,2024-02-11,15744.19,INR,Flipkart,Food,Debit Card,Success
+TXN100929,U1048,2024-01-31,33691.62,INR,Flipkart,Subscription,Wallet,Pending
+TXN100930,U1070,2024-06-02,13555.3,INR,Uber,Entertainment,Debit Card,Success
+TXN100931,U1051,2024-03-08,40664.47,INR,Spotify,Travel,Wallet,Success
+TXN100932,U1003,2024-01-26,25045.6,INR,Amazon,Shopping,Net Banking,Failed
+TXN100933,U1002,2024-03-07,3615.51,INR,Zomato,Food,Net Banking,Failed
+TXN100934,U1067,2024-03-22,12145.55,INR,Zomato,Subscription,Credit Card,Success
+TXN100935,U1040,2024-12-29,48680.92,INR,Netflix,Entertainment,UPI,Pending
+TXN100936,U1031,2024-04-24,796.15,INR,Uber,Travel,Wallet,Pending
+TXN100937,U1016,2024-03-11,27610.03,INR,Netflix,Entertainment,Wallet,Failed
+TXN100938,U1040,2024-11-16,20675.18,INR,Zomato,Entertainment,Net Banking,Pending
+TXN100939,U1020,2024-08-11,32174.93,INR,Spotify,Travel,Credit Card,Success
+TXN100940,U1022,2024-06-04,39887.17,INR,Flipkart,Shopping,Net Banking,Success
+TXN100941,U1098,2024-06-29,3702.45,INR,Netflix,Food,UPI,Pending
+TXN100942,U1074,2024-04-21,32643.07,INR,Swiggy,Travel,Net Banking,Failed
+TXN100943,U1084,2024-01-20,14554.58,INR,Uber,Subscription,Debit Card,Pending
+TXN100944,U1081,2024-06-02,49171.59,INR,Spotify,Entertainment,Credit Card,Success
+TXN100945,U1055,2024-09-26,44085.45,INR,Uber,Entertainment,Credit Card,Success
+TXN100946,U1064,2024-03-18,24780.62,INR,Flipkart,Travel,Net Banking,Success
+TXN100947,U1077,2024-04-18,47627.96,INR,Zomato,Travel,Credit Card,Success
+TXN100948,U1076,2024-11-06,38794.52,INR,Netflix,Shopping,UPI,Failed
+TXN100949,U1011,2024-05-07,25173.26,INR,Swiggy,Entertainment,Debit Card,Pending
+TXN100950,U1095,2024-01-24,7606.46,INR,Swiggy,Food,Credit Card,Pending
+TXN100951,U1064,2024-05-15,40349.35,INR,Flipkart,Subscription,Credit Card,Success
+TXN100952,U1036,2024-02-10,32975.95,INR,Netflix,Subscription,UPI,Failed
+TXN100953,U1026,2024-05-14,38977.01,INR,Amazon,Food,Credit Card,Failed
+TXN100954,U1082,2024-03-02,33775.25,INR,Amazon,Entertainment,Debit Card,Success
+TXN100955,U1007,2024-06-09,35629.3,INR,Swiggy,Entertainment,Debit Card,Failed
+TXN100956,U1037,2024-05-22,20156.32,INR,Flipkart,Subscription,Debit Card,Failed
+TXN100957,U1038,2024-04-26,38443.58,INR,Amazon,Shopping,Wallet,Failed
+TXN100958,U1077,2024-10-01,45050.37,INR,Spotify,Subscription,Net Banking,Failed
+TXN100959,U1069,2024-07-10,16589.72,INR,Amazon,Food,Wallet,Success
+TXN100960,U1050,2024-03-16,18358.99,INR,Uber,Entertainment,Debit Card,Pending
+TXN100961,U1073,2024-12-23,25089.95,INR,Zomato,Food,Wallet,Failed
+TXN100962,U1027,2024-07-03,38369.01,INR,Swiggy,Subscription,Debit Card,Success
+TXN100963,U1012,2024-05-19,26102.62,INR,Netflix,Subscription,Net Banking,Success
+TXN100964,U1062,2024-05-03,49251.68,INR,Netflix,Shopping,UPI,Failed
+TXN100965,U1041,2024-07-08,3969.49,INR,Netflix,Travel,UPI,Success
+TXN100966,U1091,2024-07-25,40545.13,INR,Spotify,Subscription,Wallet,Failed
+TXN100967,U1056,2024-07-17,25768.37,INR,Swiggy,Entertainment,UPI,Pending
+TXN100968,U1025,2024-02-19,33277.24,INR,Flipkart,Shopping,Debit Card,Failed
+TXN100969,U1017,2024-06-06,22125.63,INR,Flipkart,Food,Debit Card,Failed
+TXN100970,U1009,2024-05-28,44985.2,INR,Netflix,Travel,Credit Card,Pending
+TXN100971,U1036,2024-02-06,28953.03,INR,Flipkart,Travel,Wallet,Failed
+TXN100972,U1061,2024-10-04,17481.13,INR,Uber,Subscription,Debit Card,Success
+TXN100973,U1001,2024-10-31,32229.04,INR,Spotify,Entertainment,Wallet,Failed
+TXN100974,U1086,2024-12-02,37897.99,INR,Amazon,Entertainment,Debit Card,Success
+TXN100975,U1027,2024-05-28,6513.4,INR,Netflix,Subscription,UPI,Failed
+TXN100976,U1000,2024-06-05,45135.62,INR,Zomato,Travel,Wallet,Failed
+TXN100977,U1007,2024-06-20,34057.86,INR,Flipkart,Food,Credit Card,Failed
+TXN100978,U1037,2024-07-11,338.84,INR,Zomato,Travel,Credit Card,Failed
+TXN100979,U1080,2024-02-05,13494.68,INR,Uber,Travel,Credit Card,Pending
+TXN100980,U1100,2024-03-09,39722.3,INR,Amazon,Travel,Net Banking,Success
+TXN100981,U1094,2024-04-05,43628.53,INR,Zomato,Subscription,Credit Card,Failed
+TXN100982,U1057,2024-09-21,18772.88,INR,Amazon,Entertainment,Wallet,Success
+TXN100983,U1075,2024-01-19,39942.51,INR,Uber,Subscription,Wallet,Pending
+TXN100984,U1035,2024-01-14,7398.52,INR,Flipkart,Entertainment,Net Banking,Failed
+TXN100985,U1039,2024-02-18,8341.82,INR,Swiggy,Subscription,UPI,Failed
+TXN100986,U1090,2024-09-20,9794.07,INR,Spotify,Subscription,Net Banking,Failed
+TXN100987,U1077,2024-09-14,23894.88,INR,Flipkart,Shopping,Debit Card,Pending
+TXN100988,U1027,2024-07-08,37172.42,INR,Spotify,Shopping,Wallet,Failed
+TXN100989,U1003,2024-01-13,23630.45,INR,Amazon,Entertainment,UPI,Failed
+TXN100990,U1079,2024-08-13,38541.98,INR,Netflix,Travel,Net Banking,Success
+TXN100991,U1016,2024-03-02,43591.11,INR,Zomato,Shopping,Debit Card,Failed
+TXN100992,U1030,2024-12-31,29701.93,INR,Amazon,Travel,Credit Card,Failed
+TXN100993,U1074,2024-12-06,976.63,INR,Flipkart,Travel,Wallet,Failed
+TXN100994,U1074,2024-08-27,31433.68,INR,Amazon,Food,Credit Card,Success
+TXN100995,U1072,2024-12-21,21124.93,INR,Uber,Travel,Debit Card,Pending
+TXN100996,U1095,2024-09-25,9433.02,INR,Amazon,Subscription,Wallet,Success
+TXN100997,U1020,2024-10-16,652.31,INR,Amazon,Travel,UPI,Success
+TXN100998,U1034,2024-09-22,615.9,INR,Flipkart,Entertainment,Wallet,Pending
+TXN100999,U1001,2024-10-08,44389.66,INR,Amazon,Entertainment,Credit Card,Pending
